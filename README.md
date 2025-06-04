@@ -9,7 +9,7 @@
       
 🔭 I’m currently working on: AI Agents and Full Stack Web Apps<br>
 🧑‍🤝‍🧑 I’m looking to collaborate on: MERN Projects and AI-based Tools<br>
-🤝 I’m looking for help with: Machine Learning Optimization and Clean Code Architecture<br>
+🤝 I’m looking for help with: ML tuning & clean architecture<br>
 🌱 I’m currently learning: Deep Learning, React, and MLOps<br>
 💬 Ask me about: Full Stack Dev, AI/ML Projects, or GitHub Workflows<br>
 ⚡ Fun fact: I love turning crazy ideas into working prototypes!
