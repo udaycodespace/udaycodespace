@@ -11,7 +11,7 @@
 🧑‍🤝‍🧑 I’m looking to collaborate on: MERN Projects and AI-based Tools<br>
 🤝 I’m looking for help with: ML tuning & clean architecture<br>
 🌱 I’m currently learning: Deep Learning, React, and MLOps<br>
-💬 Ask me about: Full Stack Dev, AI/ML Projects, or GitHub Workflows<br>
+💬 Ask me about: Full Stack, AI/ML, or GitHub<br>
 ⚡ Fun fact: I love turning crazy ideas into working prototypes!
 
    </td>
