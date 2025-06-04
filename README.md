@@ -1,22 +1,23 @@
-<!-- Banner -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" />
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" />
+</p>
 
 # 💫 About Me:
 <table>
   <tr>
-    <td valign="top" width="55%">
-      <ul>
-        <li>🔭 I’m currently working on: AI Agents and Full Stack Web Apps</li>
-        <li>🧑‍🤝‍🧑 I’m looking to collaborate on: MERN Projects and AI-based Tools</li>
-        <li>🤝 I’m looking for help with: Machine Learning Optimization and Clean Code Architecture</li>
-        <li>🌱 I’m currently learning: Deep Learning, React, and MLOps</li>
-        <li>💬 Ask me about: Full Stack Dev, AI/ML Projects, or GitHub Workflows</li>
-        <li>⚡ Fun fact: I love turning crazy ideas into working prototypes!</li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
-    </td>
+    <td valign="top" width="60%">
+      
+🔭 I’m currently working on: AI Agents and Full Stack Web Apps<br>
+🧑‍🤝‍🧑 I’m looking to collaborate on: MERN Projects and AI-based Tools<br>
+🤝 I’m looking for help with: Machine Learning Optimization and Clean Code Architecture<br>
+🌱 I’m currently learning: Deep Learning, React, and MLOps<br>
+💬 Ask me about: Full Stack Dev, AI/ML Projects, or GitHub Workflows<br>
+⚡ Fun fact: I love turning crazy ideas into working prototypes!
+
+   </td>
+   <td valign="top" align="center" width="40%">
+     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="300">
+   </td>
   </tr>
 </table>
 
@@ -49,19 +50,16 @@
 <div align="center">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=udaycodespace&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=udaycodespace&theme=github_dark_dimmed&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=udaycodespace&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=udaycodespace&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=true" /><br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=udaycodespace&theme=github_dark_dimmed&hide_border=true" /><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaycodespace&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
 
-### 📌 Favorite Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+### ✍️ Favorite Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=udaycodespace&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=udaycodespace&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" />
 
----
 [![](https://visitcount.itsvg.in/api?id=udaycodespace&icon=2&color=10)](https://visitcount.itsvg.in)
 
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
