@@ -8,7 +8,7 @@
     <td valign="top" width="60%">
       
 🔭 I’m currently working on: AI Agents and Full Stack Web Apps<br>
-🧑‍🤝‍🧑 I’m looking to collaborate on: MERN Projects and AI-based Tools<br>
+🧑‍🤝‍🧑 Looking to collaborate on: MERN projects & AI tools.<br>
 🤝 I’m looking for help with: ML tuning & clean architecture<br>
 🌱 I’m currently learning: Deep Learning, React, and MLOps<br>
 💬 Ask me about: Full Stack, AI/ML, or GitHub<br>
