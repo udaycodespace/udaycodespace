@@ -2,7 +2,16 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" />
 </p>
 
-# 💫 About Me:
+# Hi there 👋, I’m Uday! 😊
+
+I’m a final-year Computer Science and Engineering student at **GPREC (Autonomous), Kurnool**. I'm passionate about building real-world solutions using **Full-Stack Web Development** and exploring the power of **Artificial Intelligence and Machine Learning**.
+
+Over the past few years, I’ve gained solid experience with core CS subjects and have worked on projects involving **Python, Java, HTML/CSS, JavaScript, React, Node.js, and MySQL**. I’ve also been learning and applying AI/ML techniques through coursework and hands-on projects, focusing on data-driven applications and smart automation.
+
+I’m currently interning as part of the **MS-AICTE Virtual Internship** offered by AICTE, where I'm enhancing my AI/ML skills.
+
+Outside of academics, I enjoy experimenting with new tech, working in collaborative teams, and taking on creative technical challenges. 🚀
+
 <table>
   <tr>
     <td valign="top" width="60%">
