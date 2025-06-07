@@ -8,10 +8,6 @@ I’m a final-year Computer Science and Engineering student at **GPREC (Autonomo
 
 Over the past few years, I’ve gained solid experience with core CS subjects and have worked on projects involving **Python, Java, HTML/CSS, JavaScript, React, Node.js, and MySQL**. I’ve also been learning and applying AI/ML techniques through coursework and hands-on projects, focusing on data-driven applications and smart automation.
 
-I’m currently interning as part of the **MS-AICTE Virtual Internship** offered by AICTE, where I'm enhancing my AI/ML skills.
-
-Outside of academics, I enjoy experimenting with new tech, working in collaborative teams, and taking on creative technical challenges. 🚀
-
 <table>
   <tr>
     <td valign="top" width="60%">
