@@ -1,9 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I’m Uday, a B.Tech CS student passionate about AI & ML, building skills in Data Science and Analytics.</div>  
+ ### <div align="center">I’m Uday, a B.Tech CS student passionate about AI & ML, building skills in Data Science and Analytics.</div>  
   
 
 - 🔭 I'm currently pursuing an AI/ML internship in Bangalore.  
