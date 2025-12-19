@@ -48,7 +48,6 @@
 
 <p align="left">
   <a href="https://www.anaconda.com/" target="_blank"><img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="40" height="40"/></a>
-  <a href="https://developer.android.com/studio" target="_blank"><img src="https://skillicons.dev/icons?i=android" alt="Android Studio" width="40" height="40"/></a>
   <a href="https://angular.io/" target="_blank"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/></a>
