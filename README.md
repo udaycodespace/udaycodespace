@@ -1,94 +1,66 @@
-# Somapuram Uday
+# hi, I'm Uday.
 
-Final-year CS @ GPREC, Kurnool · Full Stack Developer · Google Gemini Student Ambassador
-
-Building systems where data, decisions, and software meet.
-
----
-
-## What I'm Working On
-
-**Credify** — Blockchain-based academic credential verification with ZKP selective disclosure.
-Live at [blockcred-frontend.onrender.com](https://blockcred-frontend.onrender.com)
+Final year B.Tech CSE · GPREC, Kurnool · 2026  
+Technical Lead · [Sri Vasavi Digital Services](https://sri-vasavi-digital-service.vercel.app)
 
 ---
 
-## Projects
-
-Everything is organized into focused repos. Click any to explore.
-
-### Final Year Project
-> Blockchain credential system — the most serious thing I've built.
-
-| Repo | What it is | Stack | Status |
-|------|-----------|-------|--------|
-| [credify](https://github.com/udaycodespace/credify) | Core credential issuance and verification system | Python, Flask, IPFS, ZKP | Live |
-| [credify-verify](https://github.com/udaycodespace/credify-verify) | Standalone verifier tool | JavaScript | Live |
+I build systems that are traceable, enforced, and honest about what they do.  
+Not tutorials. Not demos. Things that run in production and hold under pressure.
 
 ---
 
-### Full Stack
-> Platforms and apps built end to end.
+## selected work
 
-| Repo | What it is | Stack | Status |
-|------|-----------|-------|--------|
-| [full-stack-projects](https://github.com/udaycodespace/full-stack-projects) | CampusEventHub, LearnHub, internal-ops and more | MERN, React, Java, Angular, Docker | Code only |
+**[credify](https://github.com/udaycodespace/credify)**  
+Blockchain-based verifiable credential system for academic transcripts.  
+`Flask` `custom permissioned chain` `RSA-2048` `IPFS` `Docker` `69 pytest tests` `GitHub Actions`
 
----
+**[credify-verify](https://github.com/udaycodespace/credify-verify)**  
+Standalone browser portal for verifying Credify credentials. Zero backend dependency.  
+`Vanilla JS` `Web Crypto API`
 
-### AI/ML and Data Science
-> Machine learning, NLP, time series, and data visualization work.
+**telangana matrimony** `private · client`  
+Privacy-first matrimony platform. Six user roles, PWA, QR verification, cinematic Telugu-premium UI.  
+`Next.js 14` `Express` `MongoDB Atlas` `Cloudinary` `Vercel`
 
-| Repo | What it is | Stack | Status |
-|------|-----------|-------|--------|
-| [ai-ml-datascience](https://github.com/udaycodespace/ai-ml-datascience) | Recommendation systems, forecasting, deep learning, Tableau | Python, sklearn, Prophet, Tableau | Code only |
-
----
-
-### Internship Work
-> Real professional work from internships — code and documentation.
-
-| Repo | What it is | Stack | Status |
-|------|-----------|-------|--------|
-| [internship-work](https://github.com/udaycodespace/internship-work) | Inkers Technology (data pipelines, reporting), SmartInternz (Salesforce), Edunet (AI/ML) | Python, SQL, Salesforce | Code only |
+**enclosure protocol** `private · pre-launch`  
+Secure file sharing SaaS — virus scanning, Razorpay payments, RBAC, audit trails.  
+`NestJS` `Next.js` `PostgreSQL` `Razorpay`
 
 ---
 
-### Open Source
-> Forks studied, extended, and contributed to.
+## internship
 
-| Repo | What it is | Status |
-|------|-----------|--------|
-| [opensource-contributions](https://github.com/udaycodespace/opensource-contributions) | EduTrack, thumb-grabber, contribution log | Ongoing |
+**Inkers Technology Pvt. Ltd.** · Full Stack Developer Intern · Dec 2025 – Feb 2026 · Bengaluru  
+`Frappe` `React` `Redux Toolkit` `RTK Query` `Docker` `custom RBAC` `whitelisted APIs`
 
 ---
 
-### Misc
-> Portfolio site, utilities, and one-off experiments.
+## focus
 
-| Repo | What it is | Status |
-|------|-----------|--------|
-| [misc](https://github.com/udaycodespace/misc) | Portfolio, tm-id-generator, ggsa-website | Mixed |
-
----
-
-## Stack
-
-**Frontend** — React, Redux, Vite, Tailwind CSS, Angular, HTML/CSS/JS
-
-**Backend** — Node.js, Express, Python, Flask, Frappe/ERPNext
-
-**Database** — MongoDB, PostgreSQL, SQLite, MySQL
-
-**AI/ML** — Python, sklearn, TensorFlow, Prophet, ARIMA, Pandas, Numpy
-
-**Other** — Blockchain, IPFS, ZKP, Docker, Git, REST APIs, Salesforce
+→ traceable, audit-ready backend systems  
+→ blockchain and distributed identity  
+→ full stack with enforced architecture  
+→ AI-assisted development workflows  
+→ freelance digital agency — web dev, project support, mentoring
 
 ---
 
-## Connect
+## repositories
 
-- Portfolio: [udayworks.me](https://udayworks.me)
-- LinkedIn: [in/somapuram-uday](https://linkedin.com/in/somapuram-uday)
-- Email: udaysomapuram@gmail.com
-- Medium: [@somapuram_uday](https://medium.com/@somapuram_uday)
+[`credify`](https://github.com/udaycodespace/credify) &nbsp;
+[`credify-verify`](https://github.com/udaycodespace/credify-verify) &nbsp;
+[`ai-ml-analytics`](https://github.com/udaycodespace/ai-ml-analytics) &nbsp;
+[`dev-projects`](https://github.com/udaycodespace/dev-projects) &nbsp;
+[`internship-work`](https://github.com/udaycodespace/internship-work) &nbsp;
+[`open-source`](https://github.com/udaycodespace/open-source) &nbsp;
+[`learning-and-experiments`](https://github.com/udaycodespace/learning-and-experiments)
+
+---
+
+## reach
+
+portfolio → [udaycodespace.github.io/portfolio](https://udaycodespace.github.io/portfolio)  
+email → udayworksoffical@gmail.com  
+linkedin → [somapuram-uday](https://linkedin.com/in/somapuram-uday)
