@@ -4,7 +4,6 @@ Final year CS at GPREC &nbsp;·&nbsp; Google Gemini Student Ambassador @ GPREC
 
 Frontend-core. Knows backend. Speaks data.
 
-&nbsp;
 
 🔐 **[credify](https://github.com/udaycodespace/credify)** — blockchain credential verification with ZKP. [live](https://blockcred-frontend.onrender.com)
 
@@ -29,10 +28,6 @@ Frontend-core. Knows backend. Speaks data.
 🧪 **[learning-and-experiments](https://github.com/udaycodespace/learning-and-experiments)** — prototypes and rabbit holes.
 
 🤝 **[open-source](https://github.com/udaycodespace/open-source)** — forks studied and contributed to.
-
-📦 **[products](https://github.com/udaycodespace/products)** — shipped tools and portfolio.
-
-&nbsp;
 
 also on **[uday-works](https://github.com/uday-works)**
 
