@@ -6,59 +6,24 @@ Final year CS at GPREC &nbsp;·&nbsp; Google Gemini Student Ambassador @ GPREC
 
 &nbsp;
 
-<details>
-<summary>🔐 credify + credify-verify — blockchain credential system</summary>
+🔐 **[credify](https://github.com/udaycodespace/credify)** — blockchain credential verification with ZKP. [live](https://blockcred-frontend.onrender.com)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-&nbsp;
+🔐 **[credify-verify](https://github.com/udaycodespace/credify-verify)** — public verifier, no account needed.
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-**[credify](https://github.com/udaycodespace/credify)** — blockchain credential verification with ZKP. [live](https://blockcred-frontend.onrender.com)
-`Python` `Flask` `IPFS` `ZKP` `HTML` `CSS` `JS`
+🛠️ **[dev-projects](https://github.com/udaycodespace/dev-projects)** — frontend UIs, backend APIs, and full stack apps end to end.
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**[credify-verify](https://github.com/udaycodespace/credify-verify)** — public verifier, no account needed.
-`JavaScript` `HTML` `CSS`
+📊 **[ai-ml-analytics](https://github.com/udaycodespace/ai-ml-analytics)** — ML models, forecasting, and data dashboards.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
-</details>
+💼 **[internship-work](https://github.com/udaycodespace/internship-work)** — ERP, CRM, and AI/ML work across three internships.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
-<details>
-<summary>🛠️ dev-projects — frontend, backend, full stack</summary>
+🧪 **[learning-and-experiments](https://github.com/udaycodespace/learning-and-experiments)** — prototypes and rabbit holes.
 
-&nbsp;
-
-**[dev-projects](https://github.com/udaycodespace/dev-projects)** — frontend UIs, backend APIs, and full stack apps end to end.
-`HTML` `CSS` `JS` `Java` `React` `Angular` `Node.js` `MongoDB` `MySQL`
-
-</details>
-
-<details>
-<summary>📊 ai-ml-analytics — ML, data science, dashboards</summary>
-
-&nbsp;
-
-**[ai-ml-analytics](https://github.com/udaycodespace/ai-ml-analytics)** — ML models, forecasting, and data dashboards.
-`Python` `NumPy` `Pandas` `scikit-learn` `TensorFlow` `Tableau` `SQL`
-
-</details>
-
-<details>
-<summary>💼 internship-work — professional work across three internships</summary>
-
-&nbsp;
-
-**[internship-work](https://github.com/udaycodespace/internship-work)** — ERP, CRM, and AI/ML work across three internships.
-`Python` `SQL` `Frappe` `ERPNext` `Salesforce` `Java`
-
-</details>
-
-<details>
-<summary>🧪 learning-and-experiments &nbsp;·&nbsp; 🤝 open-source</summary>
-
-&nbsp;
-
-**[learning-and-experiments](https://github.com/udaycodespace/learning-and-experiments)** — prototypes and rabbit holes.
-
-**[open-source](https://github.com/udaycodespace/open-source)** — forks studied and contributed to.
-
-</details>
+🤝 **[open-source](https://github.com/udaycodespace/open-source)** — forks studied and contributed to.
 
 &nbsp;
 
