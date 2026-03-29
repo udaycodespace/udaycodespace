@@ -6,8 +6,6 @@ Final year CS at GPREC · Google Gemini Student Ambassador @ GPREC
 
 > _Each repo is a domain, not a single project — open one and you'll find multiple independent builds inside._
 
----
-
 ### 🚧 Currently Building
 
 🔐 **[credify](https://github.com/udaycodespace/credify)** — students own their academic records. institutions verify on-chain. no middleman. [↗ live](https://blockcred-frontend.onrender.com)
@@ -17,8 +15,6 @@ Final year CS at GPREC · Google Gemini Student Ambassador @ GPREC
 🔐 **[credify-verify](https://github.com/udaycodespace/credify-verify)** — paste a credential. get a verdict. no account, no friction. [↗ live](https://blockcred-frontend.onrender.com)
 
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-
----
 
 ### 📂 Find More Here
 
@@ -37,8 +33,6 @@ Final year CS at GPREC · Google Gemini Student Ambassador @ GPREC
 🧪 **[learning-and-experiments](https://github.com/udaycodespace/learning-and-experiments)** — things i'm figuring out. prototypes, notes, rabbit holes.
 
 🤝 **[open-source](https://github.com/udaycodespace/open-source)** — forks read properly and contributed to.
-
----
 
 > also on **[uday-works](https://github.com/uday-works)**
 
