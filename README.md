@@ -1,28 +1,26 @@
 # Hi, I'm Uday.
 
-Final year CS at GPREC &nbsp;·&nbsp; Google Gemini Student Ambassador @ GPREC
+Final year CS at GPREC · Google Gemini Student Ambassador @ GPREC
 
 > **Builds interfaces. Wires APIs. Models data. Ships end to end.**
 
-Each repo here is an organized collection — multiple independent projects grouped by domain, not a single codebase.
+> _Each repo is a domain, not a single project — open one and you'll find multiple independent builds inside._
 
-&nbsp;
+---
 
-**currently building**
+### 🚧 Currently Building
 
-🔐 **[credify](https://github.com/udaycodespace/credify)** — students own their academic records. institutions verify on-chain. no middleman. [↗ live]
+🔐 **[credify](https://github.com/udaycodespace/credify)** — students own their academic records. institutions verify on-chain. no middleman. [↗ live](https://blockcred-frontend.onrender.com)
 
-(https://blockcred-frontend.onrender.com)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-🔐 **[credify-verify](https://github.com/udaycodespace/credify-verify)** — paste a credential. get a verdict. no account, no friction. [↗ live]
+🔐 **[credify-verify](https://github.com/udaycodespace/credify-verify)** — paste a credential. get a verdict. no account, no friction. [↗ live](https://blockcred-frontend.onrender.com)
 
-(https://blockcred-frontend.onrender.com)
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-&nbsp;
+---
 
-**find more here**
+### 📂 Find More Here
 
 🛠️ **[dev-projects](https://github.com/udaycodespace/dev-projects)** — frontend to backend, component to API, database to deployment.
 
@@ -40,8 +38,8 @@ Each repo here is an organized collection — multiple independent projects grou
 
 🤝 **[open-source](https://github.com/udaycodespace/open-source)** — forks read properly and contributed to.
 
-&nbsp;
+---
 
 > also on **[uday-works](https://github.com/uday-works)**
 
-[Portfolio](https://udayworks.me) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/somapuram-uday) &nbsp;·&nbsp; [Medium](https://medium.com/@somapuram_uday) &nbsp;·&nbsp; udaysomapuram@gmail.com
+[Portfolio](https://udayworks.me) · [LinkedIn](https://linkedin.com/in/somapuram-uday) · [Medium](https://medium.com/@somapuram_uday) · udaysomapuram@gmail.com
