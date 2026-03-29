@@ -5,11 +5,11 @@
 
 ### 🚧 Currently Building
 
-🔐 **[credify](https://github.com/udaycodespace/credify)** — students own their academic records. institutions verify on-chain. no middleman. [↗ live](https://blockcred-frontend.onrender.com)
+🔐 **[credify](https://github.com/udaycodespace/credify)** — students own their academic records. institutions verify on-chain. no middleman. [live↗](https://blockcred-frontend.onrender.com)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-🔐 **[credify-verify](https://github.com/udaycodespace/credify-verify)** — paste a credential. get a verdict. no account, no friction. [↗ live](https://blockcred-frontend.onrender.com)
+🔐 **[credify-verify](https://github.com/udaycodespace/credify-verify)** — paste a credential. get a verdict. no account, no friction. [live↗](https://blockcred-frontend.onrender.com)
 
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
