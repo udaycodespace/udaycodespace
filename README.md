@@ -1,100 +1,32 @@
-# Somapuram Uday
+# Hi, I'm Uday.
 
-B.Tech Computer Science · GPREC Kurnool · Final Year
-Full Stack Developer · Google Gemini Student Ambassador
+I work at the intersection of systems architecture, data workflows, and engineering discipline.
 
-I build systems where data, decisions, and software meet.
-Currently finishing my degree and a full-stack internship simultaneously.
+My focus areas:
+- building traceable, audit-ready software systems
+- full-stack development with structured backend enforcement
+- applying AI and data concepts to production-grade workflows
 
----
-
-## Flagship Project
-
-**[Credify](https://github.com/udaycodespace/credify)** — Blockchain-based academic credential verification with zero-knowledge selective disclosure.
-
-Students own their credentials. Institutions verify instantly. No middleman.
-Built with Python, Flask, IPFS, and ZKP. Deployed and live.
-
-→ [blockcred-frontend.onrender.com](https://blockcred-frontend.onrender.com)
+I prioritize clarity over noise, proof over claims, and systems that scale beyond tutorials.
 
 ---
 
-## Repositories
+## Find my work
 
-### Credify System
+**[credify](https://github.com/udaycodespace/credify)** — Blockchain credential verification with ZKP selective disclosure. My final-year project. Live at [blockcred-frontend.onrender.com](https://blockcred-frontend.onrender.com)
 
-| Repo | What it does | Stack | Live |
-|------|-------------|-------|------|
-| [credify](https://github.com/udaycodespace/credify) | Credential issuance, ZKP proofs, IPFS storage, blockchain ledger | Python · Flask · IPFS · ZKP | ✓ |
-| [credify-verify](https://github.com/udaycodespace/credify-verify) | Standalone public verifier — no login, no account needed | JavaScript | ✓ |
+**[credify-verify](https://github.com/udaycodespace/credify-verify)** — Standalone verifier tool. No login, just paste and verify.
 
----
+**[dev-projects](https://github.com/udaycodespace/dev-projects)** — All my full stack work. MERN, MEAN, React, Angular, Docker — CampusEventHub, LearnHub, internal ops tooling and more.
 
-### Full Stack
+**[ai-ml-analytics](https://github.com/udaycodespace/ai-ml-analytics)** — Everything ML and data. Recommendation systems, time-series forecasting, deep learning, Tableau dashboards.
 
-| Repo | What it does | Stack |
-|------|-------------|-------|
-| [dev-projects](https://github.com/udaycodespace/dev-projects) | CampusEventHub, LearnHub, internal-ops tooling | MERN · React · Angular · Docker |
+**[internship-work](https://github.com/udaycodespace/internship-work)** — Real professional work. Inkers Technology (Frappe/ERPNext, data pipelines), SmartInternz (Salesforce), Edunet (AI/ML).
 
----
+**[learning-and-experiments](https://github.com/udaycodespace/learning-and-experiments)** — Things I'm exploring. Prototypes, notes, rabbit holes worth keeping.
 
-### AI/ML and Data Science
-
-| Repo | What it does | Stack |
-|------|-------------|-------|
-| [ai-ml-analytics](https://github.com/udaycodespace/ai-ml-analytics) | Recommendation engines, time-series forecasting, deep learning, Tableau dashboards | Python · sklearn · TensorFlow · Prophet · Pandas |
+**[open-source](https://github.com/udaycodespace/open-source)** — Forks I've studied, extended, and contributed to.
 
 ---
-
-### Internship Work
-
-| Repo | Where | What | Stack |
-|------|-------|------|-------|
-| [internship-work](https://github.com/udaycodespace/internship-work) | Inkers Technology · SmartInternz · Edunet | Data pipelines, Frappe/ERPNext modules, Salesforce dev, AI/ML projects | Python · SQL · Salesforce · Frappe |
-
----
-
-### Open Source
-
-| Repo | What |
-|------|------|
-| [open-source](https://github.com/udaycodespace/open-source) | Forks studied, extended, and contributed to — EduTrack, thumb-grabber, and others |
-
----
-
-### Learning and Products
-
-| Repo | What |
-|------|------|
-| [learning-and-experiments](https://github.com/udaycodespace/learning-and-experiments) | Explorations, prototypes, technical notes |
-| [products](https://github.com/udaycodespace/products) | Portfolio, utilities, and shipped tools |
-
----
-
-## Stack
-
-**Frontend** — React, Redux Toolkit, RTK Query, Vite, Tailwind CSS, Angular, HTML/CSS/JS
-
-**Backend** — Node.js, Express, Python, Flask, Frappe/ERPNext
-
-**Database** — MongoDB, PostgreSQL, SQLite, MySQL
-
-**AI/ML** — sklearn, TensorFlow, Prophet, ARIMA, Pandas, NumPy
-
-**Systems** — Blockchain, IPFS, ZKP, Docker, REST APIs, Git
-
-**Platforms** — Salesforce, Render, GitHub Pages, Vercel
-
----
-
-## Currently
-
-- Wrapping up internship at Inkers Technology, Bengaluru (ends March 2026)
-- Finalising Credify for project defense
-- Documenting everything properly so it survives past the semester
-
----
-
-## Links
 
 [Portfolio](https://udayworks.me) · [LinkedIn](https://linkedin.com/in/somapuram-uday) · [Medium](https://medium.com/@somapuram_uday) · udaysomapuram@gmail.com
