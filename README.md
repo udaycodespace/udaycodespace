@@ -1,32 +1,41 @@
 # Hi, I'm Uday.
 
-I work at the intersection of systems architecture, data workflows, and engineering discipline.
+CS final year. Full stack dev. Google Gemini Student Ambassador.
 
-My focus areas:
-- building traceable, audit-ready software systems
-- full-stack development with structured backend enforcement
-- applying AI and data concepts to production-grade workflows
+I care about software that's traceable — where you can follow what happened, why it happened, and who's responsible. Most of my work is backend-heavy or data-adjacent. I don't do things that only work in tutorials.
 
-I prioritize clarity over noise, proof over claims, and systems that scale beyond tutorials.
+Right now I'm wrapping up [Credify](https://github.com/udaycodespace/credify), a blockchain credential system with zero-knowledge proofs. Students own their records. Institutions verify without calling anyone. It's live.
 
----
+&nbsp;
 
-## Find my work
+```
+everything is in the repos below. click what's relevant.
+```
 
-**[credify](https://github.com/udaycodespace/credify)** — Blockchain credential verification with ZKP selective disclosure. My final-year project. Live at [blockcred-frontend.onrender.com](https://blockcred-frontend.onrender.com)
+&nbsp;
 
-**[credify-verify](https://github.com/udaycodespace/credify-verify)** — Standalone verifier tool. No login, just paste and verify.
+**[credify](https://github.com/udaycodespace/credify)**
+Blockchain credential verification. ZKP selective disclosure. Flask + IPFS + Python.
+→ [live demo](https://blockcred-frontend.onrender.com)
 
-**[dev-projects](https://github.com/udaycodespace/dev-projects)** — All my full stack work. MERN, MEAN, React, Angular, Docker — CampusEventHub, LearnHub, internal ops tooling and more.
+**[credify-verify](https://github.com/udaycodespace/credify-verify)**
+Public verifier. No account. Paste a credential, get a result.
 
-**[ai-ml-analytics](https://github.com/udaycodespace/ai-ml-analytics)** — Everything ML and data. Recommendation systems, time-series forecasting, deep learning, Tableau dashboards.
+**[dev-projects](https://github.com/udaycodespace/dev-projects)**
+Full stack across MERN, MEAN, React, Angular, Docker. CampusEventHub, LearnHub, internal ops tooling.
 
-**[internship-work](https://github.com/udaycodespace/internship-work)** — Real professional work. Inkers Technology (Frappe/ERPNext, data pipelines), SmartInternz (Salesforce), Edunet (AI/ML).
+**[ai-ml-analytics](https://github.com/udaycodespace/ai-ml-analytics)**
+ML and data work. Recommendation systems, time series forecasting, deep learning, Tableau.
 
-**[learning-and-experiments](https://github.com/udaycodespace/learning-and-experiments)** — Things I'm exploring. Prototypes, notes, rabbit holes worth keeping.
+**[internship-work](https://github.com/udaycodespace/internship-work)**
+Professional work from three internships — Inkers Technology (Frappe/ERPNext), SmartInternz (Salesforce), Edunet (AI/ML).
 
-**[open-source](https://github.com/udaycodespace/open-source)** — Forks I've studied, extended, and contributed to.
+**[learning-and-experiments](https://github.com/udaycodespace/learning-and-experiments)**
+Stuff I'm figuring out. Prototypes, notes, rabbit holes.
 
----
+**[open-source](https://github.com/udaycodespace/open-source)**
+Forks I've read properly and contributed to.
 
-[Portfolio](https://udayworks.me) · [LinkedIn](https://linkedin.com/in/somapuram-uday) · [Medium](https://medium.com/@somapuram_uday) · udaysomapuram@gmail.com
+&nbsp;
+
+[udayworks.me](https://udayworks.me) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/somapuram-uday) &nbsp;·&nbsp; [Medium](https://medium.com/@somapuram_uday) &nbsp;·&nbsp; udaysomapuram@gmail.com
