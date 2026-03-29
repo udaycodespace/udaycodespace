@@ -1,9 +1,5 @@
 # Hi, I'm Uday.
-
-Final year CS at GPREC · Google Gemini Student Ambassador @ GPREC
-
 > **Builds interfaces. Wires APIs. Models data. Ships end to end.**
-
 > _Each repo is a domain, not a single project — open one and you'll find multiple independent builds inside._
 
 ### 🚧 Currently Building
