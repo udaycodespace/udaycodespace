@@ -1,65 +1,87 @@
-👋 **Somapuram Uday**
-B.Tech CSE · GPREC, Kurnool · 2026 · Technical Lead @ [Sri Vasavi Digital Services](https://sri-vasavi-digital-service.vercel.app)
+# Somapuram Uday
 
-&nbsp;
+B.Tech CSE · GPREC, Kurnool · 2026
 
-🧠 **I build systems that know what they're doing.**
+---
+
+## 🧠 I build systems that know what they’re doing.
 
 Not portfolio pieces. Not tutorial rewrites.
-Traceable backends. Enforced architecture. Production discipline from day one.
-I ship real products while still in college — and I document every decision.
 
-&nbsp;
+Traceable backends. Enforced architecture.
+Production discipline from day one.
 
-⚡ **Selected Work**
+I build systems that can explain themselves —
+under load, under failure, under scrutiny.
+
+---
+
+## ⚡ Selected Work
 
 🔐 **[Credify](https://github.com/udaycodespace/credify)** `public`
 Blockchain-based verifiable credential system for academic transcripts.
-Custom permissioned chain · RSA-2048 · IPFS · Docker 3-node cluster · 69 pytest tests · GitHub Actions CI/CD · Selective Disclosure Layer
-`Python` `Flask` `blockchain` `Docker` `IPFS` `RSA-2048`
+Permissioned chain · RSA-2048 · IPFS · Docker cluster · CI/CD · selective disclosure
+`Python` `Flask` `Blockchain` `Docker` `IPFS`
 
-✅ **[Credify-Verify](https://github.com/udaycodespace/credify-verify)** `public`
-Standalone browser portal for verifying Credify credentials. Zero backend dependency — pure Web Crypto API.
-`Vanilla JS` `Web Crypto API` `zero-backend`
+---
 
-💍 **Telangana Matrimony** `private · client`
-Privacy-first matrimony platform for Telugu community. Six user roles · PWA · QR verification · cinematic Telugu-premium UI.
-`Next.js 14` `Express` `MongoDB Atlas` `Cloudinary` `Vercel`
+🧾 **[Credify-Verify](https://github.com/udaycodespace/credify-verify)** `public`
+Standalone verification layer that runs entirely in the browser.
+No backend. No trust assumptions. Only cryptographic validation.
+`Vanilla JS` `Web Crypto API` `Zero Backend`
+
+---
 
 🔒 **Enclosure Protocol** `private · pre-launch`
-Secure file sharing SaaS — virus scanning, Razorpay payments, RBAC, full audit trail.
+Secure file-sharing system with strict access control, audit trails, and payment workflows.
+Designed around controlled data flow and system-level accountability.
 `NestJS` `Next.js` `PostgreSQL` `Razorpay`
 
-&nbsp;
+---
 
-🏢 **Internship**
+## 🏢 Internship
 
-**Inkers Technology Pvt. Ltd.** · Full Stack Developer Intern · Dec 2025 – Feb 2026 · Bengaluru
-Built a full RBAC system on Frappe Framework with custom whitelisted APIs, session auth, and React frontend.
-Progressed from standard REST to production-grade user isolation in 3 months.
+**Inkers Technology Pvt. Ltd.** · Full Stack Developer Intern
+Dec 2025 – Feb 2026 · Bengaluru
+
+Built a role-based access system on Frappe Framework.
+Designed backend APIs, enforced permission layers, and integrated a React frontend.
+
+Moved from basic CRUD systems → structured, production-grade access control.
 `Frappe` `React` `Redux Toolkit` `RTK Query` `Docker` `RBAC`
 
-&nbsp;
+---
 
-🎯 **Focus Areas**
+## 🎯 Focus
 
-🔗 Blockchain · distributed identity · verifiable systems
-🏗️ Full stack with enforced, auditable architecture
-🤖 AI-assisted development workflows at scale
-📊 Data pipelines · ML systems · analytics infrastructure
-🚀 Freelance digital agency — SVDS · web dev · mentoring · project support
+🔗 Verifiable systems · distributed identity
+🏗️ Backend-first full stack with enforced architecture
+📊 Data pipelines · analytics · ML systems
+🤖 AI-assisted development workflows
+⚙️ Systems that remain understandable under failure
 
-&nbsp;
+---
 
-📁 **Repositories**
+## 📁 Repositories
 
-[`credify`](https://github.com/udaycodespace/credify) &nbsp; [`credify-verify`](https://github.com/udaycodespace/credify-verify) &nbsp; [`ai-ml-analytics`](https://github.com/udaycodespace/ai-ml-analytics) &nbsp; [`dev-projects`](https://github.com/udaycodespace/dev-projects) &nbsp; [`internship-work`](https://github.com/udaycodespace/internship-work) &nbsp; [`open-source`](https://github.com/udaycodespace/open-source) &nbsp; [`learning-and-experiments`](https://github.com/udaycodespace/learning-and-experiments)
+[`credify`](https://github.com/udaycodespace/credify)  
+[`credify-verify`](https://github.com/udaycodespace/credify-verify)  
+[`ai-ml-datascience`](https://github.com/udaycodespace/ai-ml-datascience)  
+[`full-stack-projects`](https://github.com/udaycodespace/full-stack-projects)  
+[`internship-work`](https://github.com/udaycodespace/internship-work)  
+[`opensource-contributions`](https://github.com/udaycodespace/opensource-contributions)  
+[`personal-saas`](https://github.com/udaycodespace/personal-saas)
 
-&nbsp;
+---
 
-📬 **Reach**
+## 🌐 Other
 
-🌐 Portfolio → [udaycodespace.github.io/portfolio](https://udaycodespace.github.io/portfolio)
-📧 Email → udayworksoffical@gmail.com
-💼 LinkedIn → [somapuram-uday](https://linkedin.com/in/somapuram-uday)
-🏢 Agency → [sri-vasavi-digital-service.vercel.app](https://sri-vasavi-digital-service.vercel.app)
+Alternate account: **uday-works**
+
+---
+
+## 📬 Reach
+
+🌐 Portfolio → https://udayworks.me/
+📧 Email → [udayworksoffical@gmail.com](mailto:udayworksoffical@gmail.com)
+💼 LinkedIn → https://linkedin.com/in/somapuram-uday
