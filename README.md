@@ -1,51 +1,113 @@
-# 👋 Hi, I'm Uday
+# Hi, I'm Somapuram Uday
 
-> ## 🚧 GitHub Profile Under Reconstruction
+```console
+uday@github:~$ ./whoami
 
-I'm currently reorganizing my GitHub to better reflect my recent work, open-source contributions, and professional experience.
+==============================================================
+                 DEVELOPER PROFILE LOADED
+==============================================================
 
-### 🛠️ Reconstruction Status
+USER          : Somapuram Uday
+ROLE          : Full-Stack Developer
+LOCATION      : India
+STATUS        : ONLINE
 
-```text
-Overall Progress
-███████████░░░░░░░░░ 55%
+LAST UPDATE   : 30 Jun 2026
+NEXT UPDATE   : 30 Jul 2026
 
-🧹 Repository Cleanup      ████████████████░░░░ 80%
-📦 Archive Old Projects    ██████████████░░░░░ 70%
-🔨 Refactoring             ████████░░░░░░░░░░░ 40%
-📝 Documentation           ██████████░░░░░░░░░ 50%
-✨ Portfolio Updates       ██████░░░░░░░░░░░░░ 30%
-🎯 Final Organization      ██░░░░░░░░░░░░░░░░░ 10%
-```
+CURRENT GOAL  : Refresh GitHub Portfolio
+TARGET DATE   : 31 Jul 2026
 
-```mermaid
-flowchart LR
-    A[🧹 Cleanup] --> B[📦 Archive]
-    B --> C[🔨 Refactor]
-    C --> D[📝 Documentation]
-    D --> E[✨ Portfolio Update]
-    E --> F[🚀 Relaunch<br/>31 Jul 2026]
-```
+==============================================================
+[0x01] ACTIVE PROCESSES
+--------------------------------------------------------------
 
-```text
-⚠️ WARNING
+ PID    PROCESS                              STATUS
+──────────────────────────────────────────────────────────────
+1001    Full-Stack Development               RUNNING
+1002    GitHub Portfolio Refresh             RUNNING
+1003    Repository Cleanup                   RUNNING
+1004    Documentation Rewrite                RUNNING
+1005    Microsoft Azure                      LEARNING
+1006    Cloud Technologies                   LEARNING
+1007    Open Source Contributions            ACTIVE
 
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+==============================================================
+[0x02] CURRENT FOCUS
+--------------------------------------------------------------
 
-You may encounter:
-◉ 🚧 Work in Progress
-◉ 🐛 Random Bugs
-◉ 🔗 Broken Links
-◉ 📦 Repositories being Archived
-◉ 🧩 Half-finished Projects
+ > Organizing repositories
+ > Improving project documentation
+ > Learning Microsoft Azure
+ > Exploring cloud technologies
+ > Contributing to open source
+ > Building software that solves real-world problems
 
-Proceed with curiosity. :)
+==============================================================
 ```
 
 ---
 
-### 📫 Connect
+## Current workflow
 
-- 🌐 **Portfolio:** https://udayworks.me
-- 📧 **Email:** udaysomapuram@gmail.com
-- 💼 **LinkedIn:** https://linkedin.com/in/somapuram-uday
+```mermaid
+flowchart LR
+    A[Repository Cleanup]
+    --> B[Documentation Rewrite]
+    --> C[Portfolio Refresh]
+    --> D[New Projects]
+    --> E[Open Source]
+```
+
+---
+
+## Portfolio refresh timeline
+
+```mermaid
+timeline
+    title GitHub Portfolio Refresh
+
+    30 Jun 2026 : Previous profile snapshot
+
+    Jul 2026 : Repository cleanup
+             : Documentation rewrite
+             : Portfolio reorganization
+             : Azure learning
+             : Open-source contributions
+
+    30 Jul 2026 : Planned profile update
+
+    31 Jul 2026 : Refresh complete
+```
+
+---
+
+## Current priorities
+
+```mermaid
+kanban
+    Backlog
+        Learn Azure
+        Explore Cloud
+
+    In Progress
+        Repository Cleanup
+        Documentation Rewrite
+        GitHub Refresh
+
+    Active
+        Full-Stack Development
+        Open Source Contributions
+
+    Next
+        Ship New Projects
+```
+
+---
+
+## Development cycle
+
+```mermaid
+flowchart LR
+    Idea --> Build --> Test --> Deploy --> Feedback --> Improve --> Build
+```
