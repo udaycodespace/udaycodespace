@@ -1,4 +1,16 @@
-# Hi, I'm Somapuram Uday
+<div align="center">
+
+<pre>
+┌────────────────────────────────────────────────────────────────────────────┐
+│                                                                            │
+│                          HI 👋, I'M SOMAPURAM UDAY                         │
+│                                                                            │
+│              Full-Stack Developer • Open Source Contributor                │
+│                                                                            │
+└────────────────────────────────────────────────────────────────────────────┘
+</pre>
+
+</div>
 
 ```console
 uday@github:~$ ./whoami
@@ -15,7 +27,7 @@ STATUS        : ONLINE
 LAST UPDATE   : 30 Jun 2026
 NEXT UPDATE   : 30 Jul 2026
 
-CURRENT GOAL  : Refresh GitHub Portfolio
+CURRENT GOAL  : Rebuild GitHub Portfolio
 TARGET DATE   : 31 Jul 2026
 
 ==============================================================
@@ -26,7 +38,7 @@ TARGET DATE   : 31 Jul 2026
 ──────────────────────────────────────────────────────────────
 1001    Full-Stack Development               RUNNING
 1002    GitHub Portfolio Refresh             RUNNING
-1003    Repository Cleanup                   RUNNING
+1003    Repository Reorganization            RUNNING
 1004    Documentation Rewrite                RUNNING
 1005    Microsoft Azure                      LEARNING
 1006    Cloud Technologies                   LEARNING
@@ -36,64 +48,65 @@ TARGET DATE   : 31 Jul 2026
 [0x02] CURRENT FOCUS
 --------------------------------------------------------------
 
- > Organizing repositories
+ > Reorganizing repositories
  > Improving project documentation
  > Learning Microsoft Azure
- > Exploring cloud technologies
+ > Learning cloud technologies
  > Contributing to open source
  > Building software that solves real-world problems
 
 ==============================================================
 ```
 
----
-
-## Current workflow
+## Workflow
 
 ```mermaid
-flowchart LR
-    A[Repository Cleanup]
-    --> B[Documentation Rewrite]
-    --> C[Portfolio Refresh]
-    --> D[New Projects]
-    --> E[Open Source]
+stateDiagram-v2
+    [*] --> Repository_Reorganization
+    Repository_Reorganization --> Documentation_Rewrite
+    Documentation_Rewrite --> GitHub_Portfolio_Refresh
+    GitHub_Portfolio_Refresh --> Ship_New_Projects
+    Ship_New_Projects --> Open_Source_Contributions
+    Open_Source_Contributions --> Microsoft_Azure
+    Microsoft_Azure --> Cloud_Technologies
 ```
 
----
-
-## Portfolio refresh timeline
+## Portfolio Refresh
 
 ```mermaid
-timeline
-    title GitHub Portfolio Refresh
+gitGraph
+    commit id: "30 Jun Snapshot"
 
-    30 Jun 2026 : Previous profile snapshot
+    branch portfolio-refresh
+    checkout portfolio-refresh
+    commit id: "Repository Reorganization"
+    commit id: "Documentation Rewrite"
+    commit id: "README Cleanup"
 
-    Jul 2026 : Repository cleanup
-             : Documentation rewrite
-             : Portfolio reorganization
-             : Azure learning
-             : Open-source contributions
+    branch learning
+    checkout learning
+    commit id: "Microsoft Azure"
+    commit id: "Cloud Technologies"
 
-    30 Jul 2026 : Planned profile update
-
-    31 Jul 2026 : Refresh complete
+    checkout portfolio-refresh
+    merge learning
+    commit id: "Portfolio Refresh"
+    commit id: "30 Jul Update"
+    commit id: "31 Jul Target"
 ```
 
----
-
-## Current priorities
+## Priorities
 
 ```mermaid
 kanban
-    Backlog
-        Learn Azure
-        Explore Cloud
-
     In Progress
-        Repository Cleanup
+        GitHub Portfolio Refresh
+        Repository Reorganization
         Documentation Rewrite
-        GitHub Refresh
+
+    Learning
+        Microsoft Azure
+        Cloud Technologies
 
     Active
         Full-Stack Development
@@ -103,11 +116,18 @@ kanban
         Ship New Projects
 ```
 
----
-
-## Development cycle
+## Development Cycle
 
 ```mermaid
-flowchart LR
-    Idea --> Build --> Test --> Deploy --> Feedback --> Improve --> Build
+flowchart TD
+    A["💡 Idea"]
+        --> B["⚙️ Build"]
+    B --> C["🧪 Test"]
+    C -->|Pass| D["🚀 Ship"]
+    C -->|Needs work| E["🔧 Improve"]
+    E --> B
+    D --> F["💬 Feedback"]
+    F --> E
 ```
+
+> *Currently cleaning up years of repositories because "I'll organize them later" eventually became a milestone.*
