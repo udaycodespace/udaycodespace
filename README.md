@@ -1,13 +1,13 @@
 <div align="center">
 
 <pre>
-┌────────────────────────────────────────────────────────────────────────────┐
-│                                                                            │
-│                          HI 👋, I'M SOMAPURAM UDAY                         │
-│                                                                            │
-│              Full-Stack Developer • Open Source Contributor                │
-│                                                                            │
-└────────────────────────────────────────────────────────────────────────────┘
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│                 HI 👋, I'M SOMAPURAM UDAY                    │
+│                                                              │
+│          Full-Stack Developer • Open Source Contributor      │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 </pre>
 
 </div>
@@ -15,119 +15,100 @@
 ```console
 uday@github:~$ ./whoami
 
-==============================================================
-                 DEVELOPER PROFILE LOADED
-==============================================================
+==================================================
+              DEVELOPER PROFILE LOADED
+==================================================
 
-USER          : Somapuram Uday
-ROLE          : Full-Stack Developer
-LOCATION      : India
-STATUS        : ONLINE
+USER        : Somapuram Uday
+ROLE        : Full-Stack Developer
+LOCATION    : India
+STATUS      : ONLINE
 
-LAST UPDATE   : 30 Jun 2026
-NEXT UPDATE   : 30 Jul 2026
+GSSOC 2026  : Top 0.5% Globally | 15+ PRs | 7 Repos
 
-CURRENT GOAL  : Rebuild GitHub Portfolio
-TARGET DATE   : 31 Jul 2026
-
-==============================================================
+==================================================
 [0x01] ACTIVE PROCESSES
---------------------------------------------------------------
+==================================================
 
- PID    PROCESS                              STATUS
-──────────────────────────────────────────────────────────────
+PID     PROCESS                              STATUS
+--------------------------------------------------
 1001    Full-Stack Development               RUNNING
-1002    GitHub Portfolio Refresh             RUNNING
-1003    Repository Reorganization            RUNNING
-1004    Documentation Rewrite                RUNNING
-1005    Microsoft Azure                      LEARNING
-1006    Cloud Technologies                   LEARNING
-1007    Open Source Contributions            ACTIVE
+1002    Open Source Contributions             ACTIVE
+1003    GitHub Portfolio Refresh              RUNNING
+1004    Repository Reorganization             RUNNING
+1005    Documentation Improvements            RUNNING
+1006    Cloud Technologies                    LEARNING
 
-==============================================================
+==================================================
 [0x02] CURRENT FOCUS
---------------------------------------------------------------
+==================================================
 
- > Reorganizing repositories
- > Improving project documentation
- > Learning Microsoft Azure
- > Learning cloud technologies
- > Contributing to open source
- > Building software that solves real-world problems
+> Contributing to open source through GSSoC 2026
+> Improving repository structure and documentation
+> Learning cloud and DevOps technologies
+> Building full-stack applications
 
-==============================================================
+==================================================
+[0x03] OPEN SOURCE IMPACT (GSSoC '26)
+==================================================
+
+GLOBAL RANK    : Top 1.0% Rank 🏆
+REPOS ENGAGED  : 10+ Open-Source Codebases
+PR STATUS      : 50+ Contributions Merged
+Focus Areas    : Robust QA, Security Hardening, Feature Engineering, Refactoring
+
 ```
 
-## Workflow
+## Technologies I Work With 
 
 ```mermaid
-stateDiagram-v2
-    [*] --> Repository_Reorganization
-    Repository_Reorganization --> Documentation_Rewrite
-    Documentation_Rewrite --> GitHub_Portfolio_Refresh
-    GitHub_Portfolio_Refresh --> Ship_New_Projects
-    Ship_New_Projects --> Open_Source_Contributions
-    Open_Source_Contributions --> Microsoft_Azure
-    Microsoft_Azure --> Cloud_Technologies
+pie title Technology Distribution
+    "Frontend (React.js)" : 25
+    "Backend (Node.js, Express, Python, Frappe)" : 30
+    "Database (MongoDB)" : 15
+    "Cloud & DevOps (Azure, Docker, Git)" : 20
+    "Blockchain & Web3" : 10
 ```
 
-## Portfolio Refresh
+## Featured Projects
 
-```mermaid
-gitGraph
-    commit id: "30 Jun Snapshot"
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [Credify](https://github.com/udaycodespace/credify) | Permissioned blockchain platform for tamper-evident academic credential issuance and verification | Python · Flask · IPFS · Docker |
+| [CampusEventHub](https://github.com/udaycodespace/CampusEventHub) | Full-stack MERN platform for inter-college event management with role-based dashboards and JWT authentication | React · Node.js · Express · MongoDB |
 
-    branch portfolio-refresh
-    checkout portfolio-refresh
-    commit id: "Repository Reorganization"
-    commit id: "Documentation Rewrite"
-    commit id: "README Cleanup"
+### Contribution Distribution
 
-    branch learning
-    checkout learning
-    commit id: "Microsoft Azure"
-    commit id: "Cloud Technologies"
-
-    checkout portfolio-refresh
-    merge learning
-    commit id: "Portfolio Refresh"
-    commit id: "30 Jul Update"
-    commit id: "31 Jul Target"
+```text
+Testing & QA                  40%  ████████████████████
+Features & UI Design          25%  ████████████
+Performance & Refactoring     15%  ████████
+Security Hardening            10%  █████
+Documentation & Bug Fixes     10%  █████
 ```
 
-## Priorities
+### Notable Contributions
 
-```mermaid
-kanban
-    In Progress
-        GitHub Portfolio Refresh
-        Repository Reorganization
-        Documentation Rewrite
+| Repository | Contribution Type | Highlight / Impact |
+| --- | --- | --- |
+| **[Dev-Card/DevCard](https://www.google.com/search?q=https://github.com/Dev-Card/DevCard)** | `Feature` · `Testing` · `Performance` | Shipped critical Dev-Card feature iterations with `quality:exceptional` tags and robust automated test configurations. |
+| **[JhaSourav07/commitpulse](https://github.com/JhaSourav07/commitpulse)** | `Testing` · `Bug Fix` · `Refactor` | Scaled test coverage exponentially across multiple PRs with rigorous, high-quality test suites and optimized dashboard code. |
+| **[nevinshine/telos-runtime](https://github.com/nevinshine/telos-runtime)** | `Security` · `Feature` · `Refactor` | Patched critical runtime network vulnerability hooks (DNS profiling) and refactored core runtime feature components. |
+| **[anubhavxdev/Event-Management](https://github.com/anubhavxdev/Event-management-system-main)** | `Feature` · `Security` · `Performance` | Shipped multi-role security configurations, core event workflows, and optimized UI rendering state logic. |
+| **[geturbackend/urBackend](https://www.google.com/search?q=https://github.com/geturbackend/urBackend)** | `Bug Fix` · `Refactor` · `Docs` | Fixed core authentication/token validation loops, refactored API error handlers, and improved structural technical onboarding documents. |
 
-    Learning
-        Microsoft Azure
-        Cloud Technologies
 
-    Active
-        Full-Stack Development
-        Open Source Contributions
-
-    Next
-        Ship New Projects
-```
-
-## Development Cycle
+## My Workflow
 
 ```mermaid
 flowchart TD
-    A["💡 Idea"]
-        --> B["⚙️ Build"]
-    B --> C["🧪 Test"]
-    C -->|Pass| D["🚀 Ship"]
-    C -->|Needs work| E["🔧 Improve"]
+    A[" Idea "] --> B[" Build "]
+    B --> C[" Test "]
+    C -->|Pass| D[" Merge "]
+    C -->|Needs Work| E[" Improve "]
     E --> B
-    D --> F["💬 Feedback"]
+    D --> F[" Feedback "]
     F --> E
 ```
 
-> *Currently cleaning up years of repositories because "I'll organize them later" eventually became a milestone.*
+> Currently cleaning up years of repositories because "I'll organize them later" became a full-scale project.
