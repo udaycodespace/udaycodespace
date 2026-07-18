@@ -24,7 +24,7 @@ ROLE        : Full-Stack Developer
 LOCATION    : India
 STATUS      : ONLINE
 
-GSSOC 2026  : Top 0.5% Globally | 15+ PRs | 7 Repos
+GSSOC 2026  : Top 1.0% Globally | 50+ PRs | 7 Repos
 
 ==================================================
 [0x01] ACTIVE PROCESSES
@@ -72,7 +72,7 @@ Focus Areas    : Robust QA, Security Hardening, Feature Engineering, Refactoring
 ## Technologies I Work With 
 
 ```mermaid
-pie title Technology Distribution
+pie title 
     "Frontend (React.js)" : 25
     "Backend (Node.js, Express, Python, Frappe)" : 30
     "Database (MongoDB)" : 15
