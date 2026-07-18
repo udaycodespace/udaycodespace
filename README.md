@@ -24,7 +24,7 @@ ROLE        : Full-Stack Developer
 LOCATION    : India
 STATUS      : ONLINE
 
-GSSOC 2026  : Top 1.0% Globally | 15+ PRs | 7 Repos
+GSSOC 2026  : Top 0.5% Globally | 15+ PRs | 7 Repos
 
 ==================================================
 [0x01] ACTIVE PROCESSES
@@ -59,16 +59,20 @@ Focus Areas    : Robust QA, Security Hardening, Feature Engineering, Refactoring
 
 ```
 
-## Live Stats
+## Snapshot
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udaycodespace&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=udaycodespace&theme=radical&hide_border=true" height="165"/>
+
+![Top 1%](https://img.shields.io/badge/GSSoC_2026-Top_1%25-F59E0B?style=for-the-badge)
+![PRs](https://img.shields.io/badge/PRs_Merged-50+-22C55E?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Repos_Engaged-10+-3B82F6?style=for-the-badge)
+
 </div>
 
 ## Technologies I Work With 
 
 ```mermaid
+pie title Technology Distribution
     "Frontend (React.js)" : 25
     "Backend (Node.js, Express, Python, Frappe)" : 30
     "Database (MongoDB)" : 15
