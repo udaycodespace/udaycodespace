@@ -24,7 +24,7 @@ ROLE        : Full-Stack Developer
 LOCATION    : India
 STATUS      : ONLINE
 
-GSSOC 2026  : Top 0.5% Globally | 15+ PRs | 7 Repos
+GSSOC 2026  : Top 1.0% Globally | 15+ PRs | 7 Repos
 
 ==================================================
 [0x01] ACTIVE PROCESSES
@@ -43,10 +43,10 @@ PID     PROCESS                              STATUS
 [0x02] CURRENT FOCUS
 ==================================================
 
-> Contributing to open source through GSSoC 2026
-> Improving repository structure and documentation
-> Learning cloud and DevOps technologies
-> Building full-stack applications
+> Leading LearnHub as ECSoC 2026 Project Admin
+> Contributing to open source through GSSoC & ECSoC
+> Building scalable full-stack applications
+> Learning Azure Cloud and DevOps
 
 ==================================================
 [0x03] OPEN SOURCE IMPACT (GSSoC '26)
@@ -59,10 +59,16 @@ Focus Areas    : Robust QA, Security Hardening, Feature Engineering, Refactoring
 
 ```
 
+## Live Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=udaycodespace&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=udaycodespace&theme=radical&hide_border=true" height="165"/>
+</div>
+
 ## Technologies I Work With 
 
 ```mermaid
-pie title Technology Distribution
     "Frontend (React.js)" : 25
     "Backend (Node.js, Express, Python, Frappe)" : 30
     "Database (MongoDB)" : 15
@@ -74,6 +80,7 @@ pie title Technology Distribution
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
+| [LearnHub](https://github.com/udaycodespace/learnhub) | MERN e-learning platform with dashboards for students, teachers, and admins. I'm the Project Admin for its ECSoC 2026 run. | React · Node.js · Express · MongoDB · Material UI |
 | [Credify](https://github.com/udaycodespace/credify) | Permissioned blockchain platform for tamper-evident academic credential issuance and verification | Python · Flask · IPFS · Docker |
 | [CampusEventHub](https://github.com/udaycodespace/CampusEventHub) | Full-stack MERN platform for inter-college event management with role-based dashboards and JWT authentication | React · Node.js · Express · MongoDB |
 
