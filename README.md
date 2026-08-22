@@ -1,153 +1,424 @@
 <div align="center">
 
-<pre>
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│                 HI 👋, I'M SOMAPURAM UDAY                   │
-│                                                              │
-│      I build full-stack products, prototypes &               │
-│              MVP's that solve real problems.                 │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-</pre>
+<h1>Hi 👋, I'm SOMAPURAM UDAY 🧑‍💻</h1>
 
-</div>
+<h3>
+🧑‍💻 Full Stack Developer &nbsp;•&nbsp;
+🌐 Open Source &nbsp;•&nbsp;
+☁️ Cloud &nbsp;•&nbsp;
+🤖 AI
+</h3>
 
-<div align="center">
+<p>
+<b>Building practical software ☁️ one commit at a time.</b>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/FULL_STACK_DEVELOPER-7C3AED?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/OPEN_SOURCE-ACTIVE-00C896?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/AZURE-CLOUD-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-BUILDER-EC4899?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+<p>
   <a href="https://udaycodespace.github.io">
-    <img src="https://img.shields.io/badge/PORTFOLIO-LIVE-blueviolet?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-LIVE-7C3AED?style=for-the-badge" />
   </a>
   <a href="https://udaycodespace.github.io/open-source/">
-    <img src="https://img.shields.io/badge/OPEN_SOURCE-ACTIVE-22c55e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌱_OPEN_SOURCE-ACTIVE-00C896?style=for-the-badge" />
   </a>
   <a href="https://linkedin.com/in/somapuram-uday">
-    <img src="https://img.shields.io/badge/LINKEDIN-LET'S_TALK-0a66c2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/💼_LINKEDIN-CONNECT-0A66C2?style=for-the-badge" />
   </a>
+</p>
+
 </div>
 
-```console
-uday@github:~$ ./whoami
+## 🧠 About Me
 
-USER         : Somapuram Uday
-ROLE         : Full-stack Developer
-LOCATION     : India
-CURRENT ROLE : Technology Consultant @ Meteoros Automation LLP
+I build things to figure things out.
 
-STACK        : MERN · Java/Spring · Python · Azure · Docker
-FOCUS        : Building production-ready MVPs, OSS, Cloud & AI
-```
+From **full stack applications and MVPs** to **cloud, AI, and open source**, I learn by getting my hands on real code and making it work.
 
-> I learn fastest by building real applications to the prototype/MVP stage, not by watching tutorials on repeat.
+I enjoy exploring unfamiliar codebases, solving messy problems, and turning rough ideas into software that can actually be used.
 
-<br/>
+**Think → Build → Break → Fix → Ship.**
 
-### Right now I'm...
+## ☁️ Open Source
 
-```text
-[✓] Leading LearnHub as ECSoC 2026 Project Admin
-[✓] Technology Consultant at Meteoros Automation LLP (Azure)
-[✓] GSSoC 2026 contributor (Top 1% · 50+ PRs · 10+ repositories)
-[✓] Converting internship and college projects into long-term open source
-[~] Deepening my Azure, cloud infrastructure, and DevOps skills
-[~] Improving documentation and contributor experience across my repos
-```
+Open source has been a recurring part of my journey since **Google Code-in in 2018**.
 
-<br/>
+In 2026, I restarted that journey through independent projects and community programs.
 
-### How my time actually gets used
+<div align="center">
 
-```mermaid
-pie title "Where my hours go"
-    "Full-stack building (MERN, Java)" : 35
-    "Open source (GSSoC, ECSoC, self-OSS)" : 25
-    "Testing, QA, refactoring" : 20
-    "Cloud & DevOps (Azure, Docker, CI)" : 10
-    "AI/ML & data experiments" : 10
-```
+<table>
+<tr>
 
-<br/>
+<td align="center" width="280">
 
-## Prototypes and MVPs that matter
+<h3>🩷 GSSoC '26</h3>
 
-| Project | What it tackles | My role | Stack |
-|--------|-----------------|---------|-------|
-| [LearnHub](https://github.com/udaycodespace/learnhub) | E-learning platform that students, instructors, and admins can adapt and extend. | End-to-end dev · Maintainer · ECSoC 2026 project admin | React · Node.js · Express · MongoDB · Docker |
-| [Credify](https://github.com/udaycodespace/credify) | Slow, manual, forge-prone academic credential verification. | Project lead · Backend/blockchain · DevOps | Python · Flask · IPFS · RSA · Docker |
-| [CampusEventHub](https://github.com/udaycodespace/CampusEventHub) | Events scattered across WhatsApp, posters, and random forms. | Lead dev during Infosys Springboard · OSS cleanup | React · Node.js · Express · MongoDB |
+<img src="https://img.shields.io/badge/ROLE-OPEN_SOURCE_CONTRIBUTOR-EC4899?style=for-the-badge" />
 
-<details>
-<summary><b>Side experiments that changed how I build</b></summary>
+<br><br>
 
-- 🎛️ <a href="https://github.com/udaycodespace/terminal-portfolio">Terminal Portfolio</a>: command-line style portfolio (HTML, CSS, JS, GSAP, Three.js)
-- 📊 <a href="https://github.com/udaycodespace/cosmetic-insights">Cosmetic Insights Dashboard</a>: SQL + Tableau consumer trends dashboard
-- 🤖 AI/ML sandboxes: sentiment analysis (CNN), YOLOv8 object detection, user behaviour analysis notebooks
+🏆 <b>6,070</b> Points
+<br>
+🔀 <b>65</b> Merged PRs
+<br>
+📦 <b>14</b> Repositories
 
-</details>
+</td>
 
-<br/>
+<td align="center" width="280">
 
-## Open source is where I validate my engineering
+<h3>🟩 ECSOC 2026</h3>
 
-```console
-uday@github:~$ ./oss-status
+<img src="https://img.shields.io/badge/ROLE-PROJECT_ADMIN-10B981?style=for-the-badge" />
 
-GSSoC 2026    : Top 1% globally
-PRs merged    : 50+
-Repos touched : 10+
-Focus         : Features · Testing · Security · Refactoring · Documentation
-```
+<br><br>
 
-```text
-Testing & QA                  40%  ████████████████████
-Features & UI                 25%  ████████████
-Performance & refactoring     15%  ████████
-Security hardening            10%  █████
-Docs & small bug fixes        10%  █████
-```
+📚 <b>LearnHub</b>
+<br>
+🌐 Open Source Project
+<br>
+🤝 Community & Project Management
 
-**Repos I've pushed real changes to:**
+</td>
 
-| Repo | What I did |
-|------|-----------|
-| [Dev-Card/DevCard](https://github.com/Dev-Card/DevCard) | Feature work, performance tweaks, stronger test coverage. |
-| [JhaSourav07/commitpulse](https://github.com/JhaSourav07/commitpulse) | Expanded tests, fixed bugs, cleaned up dashboard logic. |
-| [nevinshine/telos-runtime](https://github.com/nevinshine/telos-runtime) | Worked on runtime security hooks and refactored core components. |
-| [anubhavxdev/Event-Management](https://github.com/anubhavxdev/Event-management-system-main) | Added role-aware security flows and improved event workflows. |
-| [geturbackend/urBackend](https://github.com/geturbackend/urBackend) | Fixed auth/token issues, tightened error handling, and improved docs. |
+</tr>
+</table>
 
-More here: <https://udaycodespace.github.io/open-source/>
+<br>
 
-<br/>
+<a href="https://gssoc.girlscript.org/profile/75978a65-aabb-4e38-a236-166f5a60c8be">
+<img src="https://img.shields.io/badge/GSSoC_'26-VIEW_PROFILE-EC4899?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-## How I build
+&nbsp;
+
+<a href="https://www.summerofcode.xyz/profile/project-admin/udaycodespace">
+<img src="https://img.shields.io/badge/ECSOC_2026-VIEW_PROFILE-10B981?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+## 🧭 Open Source Journey
 
 ```mermaid
-flowchart TD
-    A["Understand the problem"] --> B["Build a working prototype"]
-    B --> C["Get it to MVP level"]
-    C --> D["Collect real feedback (bugs, edge cases, requests)"]
-    D --> E["Harden it"]
-    E --> F["Open it up for contributors"]
-    D -->|if it fails| G["Keep the lessons"]
+flowchart LR
+
+    A["🌱 2018<br/><b>Google Code-in</b><br/>Oct → Dec"]
+
+    B["⏸️ 2019 → 2025<br/><b>Break</b>"]
+
+    C["💻 Jan → Apr 2026<br/><b>Self Driven OSS</b><br/>5 Independent Repositories"]
+
+    D["🤝 May 15 → Aug 15 2026<br/><b>GSSoC '26</b><br/>Open Source Contributor"]
+
+    E["🚀 Jul 2026 → Now<br/><b>ECSOC 2026</b><br/>Project Admin · LearnHub"]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+
+    classDef first fill:#2563EB,stroke:#60A5FA,color:#FFFFFF,stroke-width:2px
+    classDef pause fill:#475569,stroke:#94A3B8,color:#FFFFFF,stroke-width:2px
+    classDef self fill:#7C3AED,stroke:#A78BFA,color:#FFFFFF,stroke-width:2px
+    classDef gssoc fill:#DB2777,stroke:#F472B6,color:#FFFFFF,stroke-width:2px
+    classDef ecsoc fill:#059669,stroke:#34D399,color:#FFFFFF,stroke-width:2px
+
+    class A first
+    class B pause
+    class C self
+    class D gssoc
+    class E ecsoc
+
+    linkStyle default stroke:#64748B,stroke-width:3px
+````
+
+## 🚀 Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="280">
+
+<h3>🎓 LearnHub</h3>
+
+<img src="https://img.shields.io/badge/ECSOC_2026-PROJECT_ADMIN-10B981?style=flat-square" />
+
+<br><br>
+
+<b>Open Source Learning Platform</b>
+
+<br><br>
+
+<a href="https://github.com/udaycodespace/learnhub">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td align="center" width="280">
+
+<h3>🔐 Credify</h3>
+
+<img src="https://img.shields.io/badge/SECURITY-BLOCKCHAIN-7C3AED?style=flat-square" />
+
+<br><br>
+
+<b>Academic Credential Verification</b>
+
+<br><br>
+
+<a href="https://github.com/udaycodespace/credify">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td align="center" width="280">
+
+<h3>🏫 CampusEventHub</h3>
+
+<img src="https://img.shields.io/badge/MERN-FULL_STACK-0EA5E9?style=flat-square" />
+
+<br><br>
+
+<b>Campus Event Platform</b>
+
+<br><br>
+
+<a href="https://github.com/udaycodespace/CampusEventHub">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+## 🔥 Open Source Contributions
+
+<div align="center">
+
+<table>
+<tr>
+
+<th>Repository</th>
+<th>Focus</th>
+
+</tr>
+
+<tr>
+
+<td>
+<a href="https://github.com/Dev-Card/DevCard">
+<b>DevCard</b>
+</a>
+</td>
+
+<td>
+<img src="https://img.shields.io/badge/Features-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Testing-0EA5E9?style=flat-square" />
+<img src="https://img.shields.io/badge/Performance-10B981?style=flat-square" />
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+<a href="https://github.com/JhaSourav07/commitpulse">
+<b>CommitPulse</b>
+</a>
+</td>
+
+<td>
+<img src="https://img.shields.io/badge/Testing-0EA5E9?style=flat-square" />
+<img src="https://img.shields.io/badge/Bug_Fixes-F59E0B?style=flat-square" />
+<img src="https://img.shields.io/badge/Dashboard-7C3AED?style=flat-square" />
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+<a href="https://github.com/nevinshine/telos-runtime">
+<b>Telos Runtime</b>
+</a>
+</td>
+
+<td>
+<img src="https://img.shields.io/badge/Security-EF4444?style=flat-square" />
+<img src="https://img.shields.io/badge/Runtime-6366F1?style=flat-square" />
+<img src="https://img.shields.io/badge/Refactoring-10B981?style=flat-square" />
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+<a href="https://github.com/anubhavxdev/Event-management-system-main">
+<b>Event Management System</b>
+</a>
+</td>
+
+<td>
+<img src="https://img.shields.io/badge/Security-EF4444?style=flat-square" />
+<img src="https://img.shields.io/badge/Workflows-F59E0B?style=flat-square" />
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+<a href="https://github.com/geturbackend/urBackend">
+<b>urBackend</b>
+</a>
+</td>
+
+<td>
+<img src="https://img.shields.io/badge/Auth-0EA5E9?style=flat-square" />
+<img src="https://img.shields.io/badge/Error_Handling-EF4444?style=flat-square" />
+<img src="https://img.shields.io/badge/Docs-64748B?style=flat-square" />
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<a href="https://udaycodespace.github.io/open-source/">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_OPEN_SOURCE_WORK-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<h3>⚛️ Frontend</h3>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<h3>⚙️ Backend</h3>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+
+<h3>☁️ Cloud & DevOps</h3>
+
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<h3>🤖 AI & Data</h3>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%2FML-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data-0EA5E9?style=for-the-badge" />
+
+</div>
+
+## 🧠 How I Build
+
+```mermaid
+flowchart LR
+
+    A["💡 Idea"]
+    B["🔎 Understand"]
+    C["⚡ Prototype"]
+    D["🚀 MVP"]
+    E["🧪 Test"]
+    F["🔧 Improve"]
+    G["🌍 Ship"]
+    H["🤝 Contribute"]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F --> G
+    G --> H
+
+    E -->|Needs work| F
+    G -->|Feedback| E
 ```
 
-- Start from the problem and who actually has it.
-- Build a working prototype, then push it to an MVP that survives real use (internships, college, OSS).
-- Harden it so someone else can clone, run, and contribute without a private tour from me.
+<div align="center">
 
-<br/>
+<img src="https://img.shields.io/badge/UNDERSTAND-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BUILD-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TEST-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IMPROVE-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SHIP-10B981?style=for-the-badge" />
 
-## Let's build something useful
+</div>
 
-- You want someone who can turn a vague problem statement into a working prototype or MVP, not just talk about patterns.
-- You care about real code in real repos, open to contributions, with tests and docs improving over time.
-- You're fine with "I haven't done X in production yet, but I'll learn it fast by building with you."
+## 🌱 Currently
 
-If that's you:
+<div align="center">
 
-- Portfolio: <https://udaycodespace.github.io>
-- Projects: [LearnHub](https://github.com/udaycodespace/learnhub) · [Credify](https://github.com/udaycodespace/credify) · [CampusEventHub](https://github.com/udaycodespace/CampusEventHub)
-- Open source: <https://udaycodespace.github.io/open-source/>
-- Contact: <mailto:udayworksoffical@gmail.com>
+<img src="https://img.shields.io/badge/🧩_FULL_STACK-ACTIVE-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐_OPEN_SOURCE-ACTIVE-00C896?style=for-the-badge" />
+<img src="https://img.shields.io/badge/☁️_AZURE-LEARNING-0078D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🤖_AI-EXPLORING-EC4899?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀_MVPS-BUILDING-F59E0B?style=for-the-badge" />
 
-> Open an issue, send a PR, or drop a message if you want to build something real enough to learn from.
+<br><br>
+
+Building projects, contributing to open source, and learning by shipping.
+
+</div>
+
+## 🔗 Find Me
+
+<div align="center">
+
+<a href="https://github.com/udaycodespace">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://udaycodespace.github.io">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge" />
+</a>
+&nbsp;
+<a href="https://udaycodespace.github.io/open-source/">
+<img src="https://img.shields.io/badge/Open_Source-00C896?style=for-the-badge" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/somapuram-uday">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<i>Build • Contribute • Learn • Repeat</i>
+
+<br><br>
+
+</div>
