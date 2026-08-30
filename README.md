@@ -1,17 +1,10 @@
 <div align="center">
 
-<h1>Hi 👋, I'm SOMAPURAM UDAY 🧑‍💻</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0078D4&height=200&section=header&text=Somapuram%20Uday&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20Open%20Source%20%C2%B7%20Cloud%20%C2%B7%20AI&descAlignY=55&descSize=18" width="100%" />
 
-<h3>
-🧑‍💻 Full Stack Developer &nbsp;•&nbsp;
-🌐 Open Source &nbsp;•&nbsp;
-☁️ Cloud &nbsp;•&nbsp;
-🤖 AI
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=I+break+things+until+I+understand+them;65+PRs+merged+%C2%B7+6%2C070+GSSoC+points;Currently+running+LearnHub+at+ECSOC+2026" alt="Typing SVG" />
 
-<p>
-<b>Building practical software ☁️ one commit at a time.</b>
-</p>
+<br>
 
 <p>
   <img src="https://img.shields.io/badge/FULL_STACK_DEVELOPER-7C3AED?style=for-the-badge&logo=code&logoColor=white" />
@@ -20,70 +13,83 @@
   <img src="https://img.shields.io/badge/AI-BUILDER-EC4899?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-<p>
-  <a href="https://udaycodespace.github.io">
-    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-LIVE-7C3AED?style=for-the-badge" />
-  </a>
-  <a href="https://udaycodespace.github.io/open-source/">
-    <img src="https://img.shields.io/badge/🌱_OPEN_SOURCE-ACTIVE-00C896?style=for-the-badge" />
-  </a>
-  <a href="https://linkedin.com/in/somapuram-uday">
-    <img src="https://img.shields.io/badge/💼_LINKEDIN-CONNECT-0A66C2?style=for-the-badge" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=udaycodespace&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
 
 </div>
 
-## 🧠 About Me
+<br>
 
-I build things to figure things out.
+## About Me 🙋‍♂️
 
-From **full stack applications and MVPs** to **cloud, AI, and open source**, I learn by getting my hands on real code and making it work.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-I enjoy exploring unfamiliar codebases, solving messy problems, and turning rough ideas into software that can actually be used.
+I mostly learn by breaking things, then figuring out why they broke.
 
-**Think → Build → Break → Fix → Ship.**
+That habit has taken me through full stack apps, a few MVPs, some cloud experiments that failed before they worked, and a growing list of open source repos, some I built from scratch, some I just showed up and contributed to.
 
-## ☁️ Open Source
+Give me a codebase I've never seen before and I'll happily spend a weekend finding my way around it. Not because it's easy. Because that's usually how I actually learn something.
 
-Open source has been a recurring part of my journey since **Google Code-in in 2018**.
+</td>
 
-In 2026, I restarted that journey through independent projects and community programs.
+<td width="40%" valign="top">
+
+<pre>
+$ ./about-me.sh
+
+[+] exploring codebases
+[+] breaking things
+[+] debugging
+[+] understanding why
+[+] building again
+
+$ git status
+On branch learning
+
+STATUS=STILL_BUILDING
+</pre>
+
+</td>
+</tr>
+</table>
+
+## Open Source 💡
 
 <div align="center">
+
+I did <a href="https://codein.withgoogle.com/archive/2018/"><b>Google Code-in back in 2018</b></a>, completed 6 tasks, and ended up with a certificate and a Google t-shirt for it. Then I didn't touch open source again for six years. Picked it back up in January 2026, first on my own, then through GSSoC and ECSOC.
+
+<br>
 
 <table>
 <tr>
 
-<td align="center" width="280">
-
+<td align="center" width="300">
+<img src="https://img.icons8.com/fluency/96/prize.png" width="60" />
 <h3>🩷 GSSoC '26</h3>
-
-<img src="https://img.shields.io/badge/ROLE-OPEN_SOURCE_CONTRIBUTOR-EC4899?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ROLE-CONTRIBUTOR-EC4899?style=for-the-badge" />
 
 <br><br>
 
-🏆 <b>6,070</b> Points
-<br>
-🔀 <b>65</b> Merged PRs
-<br>
-📦 <b>14</b> Repositories
+<img src="https://img.shields.io/badge/🔀_Merged_PRs-65-EC4899?style=flat-square" />
+<br><br>
+<img src="https://img.shields.io/badge/📦_Repositories-14-EC4899?style=flat-square" />
 
 </td>
 
-<td align="center" width="280">
-
+<td align="center" width="300">
+<img src="https://img.icons8.com/fluency/96/graduation-cap.png" width="60" />
 <h3>🟩 ECSOC 2026</h3>
-
 <img src="https://img.shields.io/badge/ROLE-PROJECT_ADMIN-10B981?style=for-the-badge" />
 
 <br><br>
 
-📚 <b>LearnHub</b>
-<br>
-🌐 Open Source Project
-<br>
-🤝 Community & Project Management
+<img src="https://img.shields.io/badge/📚_Project-LearnHub-10B981?style=flat-square" />
+<br><br>
+<img src="https://img.shields.io/badge/🌐_Type-Open_Source-10B981?style=flat-square" />
+<br><br>
+<img src="https://img.shields.io/badge/🤝_Role-Community_%26_Project_Mgmt-10B981?style=flat-square" />
 
 </td>
 
@@ -92,31 +98,23 @@ In 2026, I restarted that journey through independent projects and community pro
 
 <br>
 
-<a href="https://gssoc.girlscript.org/profile/75978a65-aabb-4e38-a236-166f5a60c8be">
-<img src="https://img.shields.io/badge/GSSoC_'26-VIEW_PROFILE-EC4899?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+<a href="https://gssoc.girlscript.org/profile/75978a65-aabb-4e38-a236-166f5a60c8be"><img src="https://img.shields.io/badge/GSSoC_'26-VIEW_PROFILE-EC4899?style=for-the-badge&logo=github&logoColor=white" /></a>
 &nbsp;
-
-<a href="https://www.summerofcode.xyz/profile/project-admin/udaycodespace">
-<img src="https://img.shields.io/badge/ECSOC_2026-VIEW_PROFILE-10B981?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://www.summerofcode.xyz/profile/project-admin/udaycodespace"><img src="https://img.shields.io/badge/ECSOC_2026-VIEW_PROFILE-10B981?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
-## 🧭 Open Source Journey
+<br>
+
+## The Actual Timeline 🧭
 
 ```mermaid
 flowchart LR
 
-    A["🌱 2018<br/><b>Google Code-in</b><br/>Oct → Dec"]
-
-    B["⏸️ 2019 → 2025<br/><b>Break</b>"]
-
-    C["💻 Jan → Apr 2026<br/><b>Self Driven OSS</b><br/>5 Independent Repositories"]
-
-    D["🤝 May 15 → Aug 15 2026<br/><b>GSSoC '26</b><br/>Open Source Contributor"]
-
+    A["🌱 2018<br/><b>Google Code-in</b><br/>6 tasks · certificate + t-shirt"]
+    B["⏸️ 2019 → 2025<br/><b>Went quiet</b>"]
+    C["💻 Jan → Apr 2026<br/><b>Started again, solo</b><br/>5 repos"]
+    D["🤝 May 15 → Aug 15 2026<br/><b>GSSoC '26</b><br/>Contributor"]
     E["🚀 Jul 2026 → Now<br/><b>ECSOC 2026</b><br/>Project Admin · LearnHub"]
 
     A --> B
@@ -137,9 +135,11 @@ flowchart LR
     class E ecsoc
 
     linkStyle default stroke:#64748B,stroke-width:3px
-````
+```
 
-## 🚀 Projects
+<br>
+
+## Things I've Built 🪄
 
 <div align="center">
 
@@ -147,57 +147,33 @@ flowchart LR
 <tr>
 
 <td align="center" width="280">
-
+<img src="https://img.icons8.com/fluency/96/graduation-cap.png" width="55" />
 <h3>🎓 LearnHub</h3>
-
 <img src="https://img.shields.io/badge/ECSOC_2026-PROJECT_ADMIN-10B981?style=flat-square" />
-
 <br><br>
-
-<b>Open Source Learning Platform</b>
-
+An open source learning platform I run as project admin, handling issues, PRs, and contributor onboarding.
 <br><br>
-
-<a href="https://github.com/udaycodespace/learnhub">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+<a href="https://github.com/udaycodespace/learnhub"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 
 <td align="center" width="280">
-
+<img src="https://img.icons8.com/fluency/96/security-checked.png" width="55" />
 <h3>🔐 Credify</h3>
-
 <img src="https://img.shields.io/badge/SECURITY-BLOCKCHAIN-7C3AED?style=flat-square" />
-
 <br><br>
-
-<b>Academic Credential Verification</b>
-
+Verifies academic credentials so no one has to call a university registrar to check if a degree is real.
 <br><br>
-
-<a href="https://github.com/udaycodespace/credify">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+<a href="https://github.com/udaycodespace/credify"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 
 <td align="center" width="280">
-
+<img src="https://img.icons8.com/fluency/96/school-building.png" width="55" />
 <h3>🏫 CampusEventHub</h3>
-
 <img src="https://img.shields.io/badge/MERN-FULL_STACK-0EA5E9?style=flat-square" />
-
 <br><br>
-
-<b>Campus Event Platform</b>
-
+A MERN app for running campus events without ten WhatsApp groups and a lost Google Form.
 <br><br>
-
-<a href="https://github.com/udaycodespace/CampusEventHub">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+<a href="https://github.com/udaycodespace/CampusEventHub"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 
 </tr>
@@ -205,141 +181,95 @@ flowchart LR
 
 </div>
 
-## 🔥 Open Source Contributions
+<br>
+
+## Where Else I've Shipped Code 🔥
 
 <div align="center">
 
 <table>
 <tr>
-
 <th>Repository</th>
-<th>Focus</th>
-
+<th>What I worked on</th>
 </tr>
 
 <tr>
-
-<td>
-<a href="https://github.com/Dev-Card/DevCard">
-<b>DevCard</b>
-</a>
-</td>
-
+<td><a href="https://github.com/Dev-Card/DevCard"><b>🃏 DevCard</b></a></td>
 <td>
 <img src="https://img.shields.io/badge/Features-7C3AED?style=flat-square" />
 <img src="https://img.shields.io/badge/Testing-0EA5E9?style=flat-square" />
 <img src="https://img.shields.io/badge/Performance-10B981?style=flat-square" />
 </td>
-
 </tr>
 
 <tr>
-
-<td>
-<a href="https://github.com/JhaSourav07/commitpulse">
-<b>CommitPulse</b>
-</a>
-</td>
-
+<td><a href="https://github.com/JhaSourav07/commitpulse"><b>💓 CommitPulse</b></a></td>
 <td>
 <img src="https://img.shields.io/badge/Testing-0EA5E9?style=flat-square" />
 <img src="https://img.shields.io/badge/Bug_Fixes-F59E0B?style=flat-square" />
 <img src="https://img.shields.io/badge/Dashboard-7C3AED?style=flat-square" />
 </td>
-
 </tr>
 
 <tr>
-
-<td>
-<a href="https://github.com/nevinshine/telos-runtime">
-<b>Telos Runtime</b>
-</a>
-</td>
-
+<td><a href="https://github.com/nevinshine/telos-runtime"><b>⚙️ Telos Runtime</b></a></td>
 <td>
 <img src="https://img.shields.io/badge/Security-EF4444?style=flat-square" />
 <img src="https://img.shields.io/badge/Runtime-6366F1?style=flat-square" />
 <img src="https://img.shields.io/badge/Refactoring-10B981?style=flat-square" />
 </td>
-
 </tr>
 
 <tr>
-
-<td>
-<a href="https://github.com/anubhavxdev/Event-management-system-main">
-<b>Event Management System</b>
-</a>
-</td>
-
+<td><a href="https://github.com/anubhavxdev/Event-management-system-main"><b>🎪 Event Management System</b></a></td>
 <td>
 <img src="https://img.shields.io/badge/Security-EF4444?style=flat-square" />
 <img src="https://img.shields.io/badge/Workflows-F59E0B?style=flat-square" />
 </td>
-
 </tr>
 
 <tr>
-
-<td>
-<a href="https://github.com/geturbackend/urBackend">
-<b>urBackend</b>
-</a>
-</td>
-
+<td><a href="https://github.com/geturbackend/urBackend"><b>🔧 urBackend</b></a></td>
 <td>
 <img src="https://img.shields.io/badge/Auth-0EA5E9?style=flat-square" />
 <img src="https://img.shields.io/badge/Error_Handling-EF4444?style=flat-square" />
 <img src="https://img.shields.io/badge/Docs-64748B?style=flat-square" />
 </td>
-
 </tr>
 
 </table>
 
 <br>
 
-<a href="https://udaycodespace.github.io/open-source/">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_OPEN_SOURCE_WORK-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://udaycodespace.github.io/open-source/"><img src="https://img.shields.io/badge/SEE_EVERYTHING_ELSE-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
-## 🛠️ Tech Stack
+<br>
+
+## What I Actually Use 🛠️
 
 <div align="center">
 
 <h3>⚛️ Frontend</h3>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css" />
 
 <h3>⚙️ Backend</h3>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
 
 <h3>☁️ Cloud & DevOps</h3>
-
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github" />
 
 <h3>🤖 AI & Data</h3>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%2FML-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data-0EA5E9?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
 
 </div>
 
-## 🧠 How I Build
+<br>
+
+## How I Actually Work 🧠 
+
+It starts with an idea, then I try to understand what I'm actually solving before I touch code. Then a rough prototype, usually ugly, usually broken in at least one place. Once it does the basic thing, it becomes an MVP. Testing finds the stuff I missed. Then I fix it and ship it, and if anyone else is using it, they tell me what's still broken. Repeat.
 
 ```mermaid
 flowchart LR
@@ -365,51 +295,36 @@ flowchart LR
     G -->|Feedback| E
 ```
 
-<div align="center">
+<br>
 
-<img src="https://img.shields.io/badge/UNDERSTAND-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BUILD-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TEST-0EA5E9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/IMPROVE-F59E0B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SHIP-10B981?style=for-the-badge" />
-
-</div>
-
-## 🌱 Currently
+## Right Now 
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/🧩_FULL_STACK-ACTIVE-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🌐_OPEN_SOURCE-ACTIVE-00C896?style=for-the-badge" />
 <img src="https://img.shields.io/badge/☁️_AZURE-LEARNING-0078D4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/🤖_AI-EXPLORING-EC4899?style=for-the-badge" />
 <img src="https://img.shields.io/badge/🚀_MVPS-BUILDING-F59E0B?style=for-the-badge" />
 
 <br><br>
 
-Building projects, contributing to open source, and learning by shipping.
+Building, contributing where I can be useful, and figuring the rest out as I go.
 
 </div>
 
-## 🔗 Find Me
+<br>
+
+## Reach Me 🔗
 
 <div align="center">
 
-<a href="https://github.com/udaycodespace">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://github.com/udaycodespace"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 &nbsp;
-<a href="https://udaycodespace.github.io">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge" />
-</a>
+<a href="https://udaycodespace.github.io"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge" /></a>
 &nbsp;
-<a href="https://udaycodespace.github.io/open-source/">
-<img src="https://img.shields.io/badge/Open_Source-00C896?style=for-the-badge" />
-</a>
+<a href="https://udaycodespace.github.io/open-source/"><img src="https://img.shields.io/badge/Open_Source-00C896?style=for-the-badge" /></a>
 &nbsp;
-<a href="https://linkedin.com/in/somapuram-uday">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<a href="https://linkedin.com/in/somapuram-uday"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
@@ -417,8 +332,10 @@ Building projects, contributing to open source, and learning by shipping.
 
 <div align="center">
 
-<i>Build • Contribute • Learn • Repeat</i>
+<i>Build it. Break it. Fix it. Ship it. Do it again.</i>
 
 <br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:7C3AED&height=100&section=footer" width="100%" />
 
 </div>
