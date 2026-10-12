@@ -13,8 +13,6 @@
   <img src="https://img.shields.io/badge/AI-BUILDER-EC4899?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=udaycodespace&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
-
 </div>
 
 <br>
