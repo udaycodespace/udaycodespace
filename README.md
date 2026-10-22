@@ -104,7 +104,7 @@ I did <a href="https://codein.withgoogle.com/archive/2018/"><b>Google Code-in ba
 
 <br>
 
-## The Actual Timeline 🧭
+## The Journey So Far 🧭
 
 ```mermaid
 flowchart LR
