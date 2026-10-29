@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0078D4&height=200&section=header&text=Somapuram%20Uday&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20Open%20Source%20%C2%B7%20Cloud%20%C2%B7%20AI&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:5B2EFF&height=200&section=header&text=Somapuram%20Uday&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Open%20Source%20Contributor%20%C2%B7%20Azure%20Engineering&descAlignY=55&descSize=17" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=I+break+things+until+I+understand+them;65+PRs+merged+%C2%B7+6%2C070+GSSoC+points;Currently+running+LearnHub+at+ECSOC+2026" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=I+break+things+until+I+understand+them;Building+with+Full-Stack+Technologies;Engineering+with+Azure;Continuously+Upskilling+in+Azure;Open+Source+Contributor" alt="Typing SVG" />
 
 <br>
 
@@ -104,38 +104,30 @@ I did <a href="https://codein.withgoogle.com/archive/2018/"><b>Google Code-in ba
 
 <br>
 
-## The Journey So Far 🧭
+
+## The Journey So Far
 
 ```mermaid
 flowchart LR
+    A["2018 | Google Code-in | 6 Tasks"]
+    B["2019-2025 | Quiet Years"]
+    C["Jan-Apr 2026 | Independent Work | 5 Repositories"]
+    D["May-Aug 2026 | GSSoC | Contributor"]
+    E["Jul-Aug 2026 | ECSoC | LearnHub Project Admin"]
 
-    A["🌱 2018<br/><b>Google Code-in</b><br/>6 tasks · certificate + t-shirt"]
-    B["⏸️ 2019 → 2025<br/><b>Went quiet</b>"]
-    C["💻 Jan → Apr 2026<br/><b>Started again, solo</b><br/>5 repos"]
-    D["🤝 May 15 → Aug 15 2026<br/><b>GSSoC '26</b><br/>Contributor"]
-    E["🚀 Jul 2026 → Now<br/><b>ECSOC 2026</b><br/>Project Admin · LearnHub"]
+    A --> B --> C --> D --> E
 
-    A --> B
-    B --> C
-    C --> D
-    D --> E
+    classDef milestone fill:#F1F5F9,stroke:#94A3B8,color:#0F172A
+    classDef independent fill:#EDE9FE,stroke:#8B5CF6,color:#4C1D95
+    classDef community fill:#DBEAFE,stroke:#2563EB,color:#1E3A8A
+    classDef leadership fill:#D1FAE5,stroke:#059669,color:#065F46
 
-    classDef first fill:#2563EB,stroke:#60A5FA,color:#FFFFFF,stroke-width:2px
-    classDef pause fill:#475569,stroke:#94A3B8,color:#FFFFFF,stroke-width:2px
-    classDef self fill:#7C3AED,stroke:#A78BFA,color:#FFFFFF,stroke-width:2px
-    classDef gssoc fill:#DB2777,stroke:#F472B6,color:#FFFFFF,stroke-width:2px
-    classDef ecsoc fill:#059669,stroke:#34D399,color:#FFFFFF,stroke-width:2px
-
-    class A first
-    class B pause
-    class C self
-    class D gssoc
-    class E ecsoc
-
-    linkStyle default stroke:#64748B,stroke-width:3px
+    class A,B milestone
+    class C independent
+    class D community
+    class E leadership
 ```
 
-<br>
 
 ## Things I've Built 🪄
 
