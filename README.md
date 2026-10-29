@@ -109,11 +109,11 @@ I did <a href="https://codein.withgoogle.com/archive/2018/"><b>Google Code-in ba
 
 ```mermaid
 flowchart LR
-    A["2018 | Google Code-in | 6 Tasks"]
-    B["2019-2025 | Quiet Years"]
-    C["Jan-Apr 2026 | Independent Work | 5 Repositories"]
-    D["May-Aug 2026 | GSSoC | Contributor"]
-    E["Jul-Aug 2026 | ECSoC | LearnHub Project Admin"]
+    A["2018 · Google Code-in · 6 Tasks"]
+    B["2019-2025 · Hiatus"]
+    C["Jan-Apr 2026 · Independent Work · 5 Repositories"]
+    D["May-Aug 2026 · GSSoC · Contributor"]
+    E["Jul-Aug 2026 · ECSoC · LearnHub Project Admin"]
 
     A --> B --> C --> D --> E
 
@@ -127,7 +127,6 @@ flowchart LR
     class D community
     class E leadership
 ```
-
 
 ## Things I've Built 🪄
 
