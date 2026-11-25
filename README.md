@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:5B2EFF&height=200&section=header&text=Somapuram%20Uday&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Open%20Source%20Contributor%20%C2%B7%20Azure%20Engineering&descAlignY=55&descSize=17" width="100%" />
@@ -52,12 +53,11 @@ STATUS=STILL_BUILDING
 </tr>
 </table>
 
-
 ## Open Source 💡
 
-<div align="center">
-
 My open-source journey started with Google Code-in in 2018, where I completed 6 tasks and received an official Google T-shirt and certificate. After a break, I returned to open source in 2026 through independent development, GSSoC, and ECSOC.
+
+<div align="center">
 
 <br>
 
@@ -112,10 +112,7 @@ My open-source journey started with Google Code-in in 2018, where I completed 6 
 </tr>
 </table>
 
-
 <br>
-
-<div align="center">
 
 <a href="https://codein.withgoogle.com/archive/2018/"><img src="https://img.shields.io/badge/GOOGLE_CODE--IN_2018-VIEW_ARCHIVE-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
 &nbsp;
@@ -265,7 +262,6 @@ A MERN app for running campus events without ten WhatsApp groups and a lost Goog
 
 <br>
 
-
 ## What I Actually Use 🛠️
 
 <div align="center">
@@ -285,7 +281,6 @@ A MERN app for running campus events without ten WhatsApp groups and a lost Goog
 </div>
 
 <br>
-
 
 ## How I Actually Work
 
@@ -327,6 +322,7 @@ flowchart TD
 
 ---
 
+
 ## Let's Connect
 
 Interested in full-stack development, Azure, or open source? Feel free to reach out or explore more of my work.
@@ -338,11 +334,11 @@ Interested in full-stack development, Azure, or open source? Feel free to reach 
 <a href="https://github.com/udaycodespace">GitHub</a> ·
 <a href="mailto:udaysomapuram@gmail.com">Email</a>
 
-<br><br>
+<br>
 
-<sub>Always learning. Always building.</sub>
+<h3>limₓ→∞ f(x) = ∞</h3>
 
-<br><br>
+<sub>There is no final version. Only the next iteration.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:5B2EFF&height=100&section=footer" width="100%" />
 
