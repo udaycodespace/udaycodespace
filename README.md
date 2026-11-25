@@ -302,6 +302,25 @@ flowchart TD
     linkStyle default stroke:#94A3B8,stroke-width:1.5px
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:7C3AED&height=100&section=footer" width="100%" />
+---
+
+## Let's Connect
+
+Interested in full-stack development, Azure, or open source? Feel free to reach out or explore more of my work.
+
+<div align="center">
+
+<a href="https://udayworks.me">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/somapuram-uday">LinkedIn</a> ·
+<a href="https://github.com/udaycodespace">GitHub</a> ·
+<a href="mailto:udaysomapuram@gmail.com">Email</a>
+
+<br><br>
+
+<sub>Always learning. Always building.</sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:5B2EFF&height=100&section=footer" width="100%" />
 
 </div>
