@@ -236,6 +236,7 @@ A MERN app for running campus events without ten WhatsApp groups and a lost Goog
 
 <br>
 
+
 ## What I Actually Use 🛠️
 
 <div align="center">
@@ -249,81 +250,44 @@ A MERN app for running campus events without ten WhatsApp groups and a lost Goog
 <h3>☁️ Cloud & DevOps</h3>
 <img src="https://skillicons.dev/icons?i=azure,docker,git,github" />
 
-<h3>🤖 AI & Data</h3>
+<h3>🤖 AI & Agent Development</h3>
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 
 </div>
 
 <br>
 
-## How I Actually Work 🧠 
+## How I Actually Work 🧠
 
-It starts with an idea, then I try to understand what I'm actually solving before I touch code. Then a rough prototype, usually ugly, usually broken in at least one place. Once it does the basic thing, it becomes an MVP. Testing finds the stuff I missed. Then I fix it and ship it, and if anyone else is using it, they tell me what's still broken. Repeat.
+I start by understanding the problem and what needs to be achieved. Then I explore the existing setup, figure out an approach, and build a solution. I test it, fix what doesn't work, and refine it until it meets the requirements. Once it's ready, I ship it, learn from feedback, and keep improving.
 
 ```mermaid
-flowchart LR
+flowchart TD
+    A(["💡 Understand the Problem"])
+    B["🔍 Investigate & Explore"]
+    C["🧭 Plan an Approach"]
+    D["⚡ Build the Solution"]
+    E["🧪 Test & Validate"]
+    F["🔧 Fix & Improve"]
+    G(["🚀 Ship & Deliver"])
+    H["🤝 Feedback & Learn"]
 
-    A["💡 Idea"]
-    B["🔎 Understand"]
-    C["⚡ Prototype"]
-    D["🚀 MVP"]
-    E["🧪 Test"]
-    F["🔧 Improve"]
-    G["🌍 Ship"]
-    H["🤝 Contribute"]
-
-    A --> B
-    B --> C
-    C --> D
-    D --> E
-    E --> F
-    F --> G
-    G --> H
-
+    A --> B --> C --> D --> E
     E -->|Needs work| F
-    G -->|Feedback| E
+    F --> D
+    E -->|Looks good| G
+    G --> H
+    H -->|Keep improving| B
+
+    style A fill:#dbeafe,stroke:#2563eb,color:#1e3a8a
+    style B fill:#e0f2fe,stroke:#0284c7,color:#0c4a6e
+    style C fill:#ede9fe,stroke:#7c3aed,color:#4c1d95
+    style D fill:#fef3c7,stroke:#d97706,color:#78350f
+    style E fill:#fce7f3,stroke:#db2777,color:#831843
+    style F fill:#ffedd5,stroke:#ea580c,color:#7c2d12
+    style G fill:#dcfce7,stroke:#16a34a,color:#14532d
+    style H fill:#ccfbf1,stroke:#0d9488,color:#134e4a
 ```
-
-<br>
-
-## Right Now 
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🧩_FULL_STACK-ACTIVE-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/☁️_AZURE-LEARNING-0078D4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🤖_AI-EXPLORING-EC4899?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🚀_MVPS-BUILDING-F59E0B?style=for-the-badge" />
-
-<br><br>
-
-Building, contributing where I can be useful, and figuring the rest out as I go.
-
-</div>
-
-<br>
-
-## Reach Me 🔗
-
-<div align="center">
-
-<a href="https://github.com/udaycodespace"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-&nbsp;
-<a href="https://udaycodespace.github.io"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge" /></a>
-&nbsp;
-<a href="https://udaycodespace.github.io/open-source/"><img src="https://img.shields.io/badge/Open_Source-00C896?style=for-the-badge" /></a>
-&nbsp;
-<a href="https://linkedin.com/in/somapuram-uday"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<i>Build it. Break it. Fix it. Ship it. Do it again.</i>
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:7C3AED&height=100&section=footer" width="100%" />
 
