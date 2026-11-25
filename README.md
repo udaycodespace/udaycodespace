@@ -104,39 +104,35 @@ I did <a href="https://codein.withgoogle.com/archive/2018/"><b>Google Code-in ba
 
 <br>
 
-
-
-
 ## The Journey So Far
 
 ```mermaid
 flowchart LR
-    A(["2018<br/><b>Google Code-in</b><br/>6 Tasks Completed"])
-    B(["2019–2025<br/><b>Learning & Exploration</b><br/>Building Foundations"])
-    C(["Jan–Apr 2026<br/><b>Independent Development</b><br/>5 Repositories"])
-    D(["May–Aug 2026<br/><b>GirlScript Summer of Code</b><br/>Contributor · Rank #303"])
-    E(["Jul–Aug 2026<br/><b>Elite Coders Summer of Code</b><br/>LearnHub Project Admin · Rank 37/86"])
+    A["2018<br/>GOOGLE CODE-IN<br/>6 Tasks"]
+    B["2019–2025<br/>LEARNING & EXPLORATION"]
+    C["JAN–APR 2026<br/>INDEPENDENT WORK<br/>5 Repositories"]
+    D["MAY–AUG 2026<br/>GSSoC 2026<br/>Contributor · #303"]
+    E["JUL–AUG 2026<br/>ECSoC 2026<br/>LearnHub Project Admin · #37/86"]
 
     A --> B --> C --> D --> E
 
-    classDef early fill:#172033,stroke:#64748b,color:#e2e8f0,stroke-width:2px
-    classDef growth fill:#172554,stroke:#3b82f6,color:#dbeafe,stroke-width:2px
-    classDef independent fill:#312e81,stroke:#818cf8,color:#e0e7ff,stroke-width:2px
-    classDef community fill:#164e63,stroke:#06b6d4,color:#cffafe,stroke-width:2px
-    classDef leadership fill:#064e3b,stroke:#10b981,color:#d1fae5,stroke-width:2px
+    classDef a fill:#FFE4E6,stroke:#E11D48,color:#881337,stroke-width:2px
+    classDef b fill:#FEF3C7,stroke:#D97706,color:#78350F,stroke-width:2px
+    classDef c fill:#DCFCE7,stroke:#16A34A,color:#14532D,stroke-width:2px
+    classDef d fill:#DBEAFE,stroke:#2563EB,color:#1E3A8A,stroke-width:2px
+    classDef e fill:#F3E8FF,stroke:#9333EA,color:#581C87,stroke-width:2px
 
-    class A early
-    class B growth
-    class C independent
-    class D community
-    class E leadership
+    class A a
+    class B b
+    class C c
+    class D d
+    class E e
 
-    linkStyle 0 stroke:#64748b,stroke-width:2px
-    linkStyle 1 stroke:#3b82f6,stroke-width:2px
-    linkStyle 2 stroke:#818cf8,stroke-width:2px
-    linkStyle 3 stroke:#06b6d4,stroke-width:2px
+    linkStyle 0 stroke:#E11D48,stroke-width:2px
+    linkStyle 1 stroke:#D97706,stroke-width:2px
+    linkStyle 2 stroke:#16A34A,stroke-width:2px
+    linkStyle 3 stroke:#2563EB,stroke-width:2px
 ```
-
 
 ## Things I've Built 🪄
 
@@ -267,36 +263,43 @@ A MERN app for running campus events without ten WhatsApp groups and a lost Goog
 
 <br>
 
-## How I Actually Work 🧠
 
-I start by understanding the problem and what needs to be achieved. Then I explore the existing setup, figure out an approach, and build a solution. I test it, fix what doesn't work, and refine it until it meets the requirements. Once it's ready, I ship it, learn from feedback, and keep improving.
+## How I Actually Work
+
+I understand the problem, explore possible solutions, and build what works. I test, refine, and deliver. Feedback helps me improve and move forward.
 
 ```mermaid
 flowchart TD
-    A(["💡 Understand the Problem"])
-    B["🔍 Investigate & Explore"]
-    C["🧭 Plan an Approach"]
-    D["⚡ Build the Solution"]
-    E["🧪 Test & Validate"]
-    F["🔧 Fix & Improve"]
-    G(["🚀 Ship & Deliver"])
-    H["🤝 Feedback & Learn"]
+    A("Understand")
+    B("Explore")
+    C("Build")
+    D("Test")
+    E("Improve")
+    F("Deliver")
+    G("Feedback")
 
-    A --> B --> C --> D --> E
-    E -->|Needs work| F
-    F --> D
-    E -->|Looks good| G
-    G --> H
-    H -->|Keep improving| B
+    A --> B --> C --> D
+    D -->|Needs work| E
+    E --> C
+    D -->|Ready| F
+    F --> G
+    G --> B
 
-    style A fill:#dbeafe,stroke:#2563eb,color:#1e3a8a
-    style B fill:#e0f2fe,stroke:#0284c7,color:#0c4a6e
-    style C fill:#ede9fe,stroke:#7c3aed,color:#4c1d95
-    style D fill:#fef3c7,stroke:#d97706,color:#78350f
-    style E fill:#fce7f3,stroke:#db2777,color:#831843
-    style F fill:#ffedd5,stroke:#ea580c,color:#7c2d12
-    style G fill:#dcfce7,stroke:#16a34a,color:#14532d
-    style H fill:#ccfbf1,stroke:#0d9488,color:#134e4a
+    classDef blue fill:#DBEAFE,stroke:#2563EB,color:#1E3A8A
+    classDef cyan fill:#CFFAFE,stroke:#0891B2,color:#164E63
+    classDef violet fill:#EDE9FE,stroke:#7C3AED,color:#4C1D95
+    classDef amber fill:#FEF3C7,stroke:#D97706,color:#78350F
+    classDef green fill:#DCFCE7,stroke:#16A34A,color:#14532D
+
+    class A blue
+    class B cyan
+    class C violet
+    class D amber
+    class E blue
+    class F green
+    class G cyan
+
+    linkStyle default stroke:#94A3B8,stroke-width:1.5px
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:7C3AED&height=100&section=footer" width="100%" />
