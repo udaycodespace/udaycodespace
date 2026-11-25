@@ -106,30 +106,37 @@ I did <a href="https://codein.withgoogle.com/archive/2018/"><b>Google Code-in ba
 
 
 
+
 ## The Journey So Far
 
 ```mermaid
-flowchart TD
-    A(["🏁 2018 · Google Code-in<br/>6 Tasks Completed"])
-    B["🌱 2019–2025 · Learning & Exploration"]
-    C["💻 Jan–Apr 2026 · Independent Development<br/>5 Repositories"]
-    D["🌍 May–Aug 2026 · GirlScript Summer of Code<br/>Open-Source Contributor · Rank #303"]
-    E(["🚀 Jul–Aug 2026 · Elite Coders Summer of Code<br/>LearnHub Project Admin · Rank 37/86"])
+flowchart LR
+    A(["2018<br/><b>Google Code-in</b><br/>6 Tasks Completed"])
+    B(["2019–2025<br/><b>Learning & Exploration</b><br/>Building Foundations"])
+    C(["Jan–Apr 2026<br/><b>Independent Development</b><br/>5 Repositories"])
+    D(["May–Aug 2026<br/><b>GirlScript Summer of Code</b><br/>Contributor · Rank #303"])
+    E(["Jul–Aug 2026<br/><b>Elite Coders Summer of Code</b><br/>LearnHub Project Admin · Rank 37/86"])
 
     A --> B --> C --> D --> E
 
-    classDef early fill:#F1F5F9,stroke:#94A3B8,color:#0F172A,stroke-width:1.5px
-    classDef growth fill:#E0F2FE,stroke:#0284C7,color:#0C4A6E,stroke-width:1.5px
-    classDef independent fill:#EDE9FE,stroke:#8B5CF6,color:#4C1D95,stroke-width:1.5px
-    classDef community fill:#DBEAFE,stroke:#2563EB,color:#1E3A8A,stroke-width:1.5px
-    classDef leadership fill:#D1FAE5,stroke:#059669,color:#065F46,stroke-width:2px
+    classDef early fill:#172033,stroke:#64748b,color:#e2e8f0,stroke-width:2px
+    classDef growth fill:#172554,stroke:#3b82f6,color:#dbeafe,stroke-width:2px
+    classDef independent fill:#312e81,stroke:#818cf8,color:#e0e7ff,stroke-width:2px
+    classDef community fill:#164e63,stroke:#06b6d4,color:#cffafe,stroke-width:2px
+    classDef leadership fill:#064e3b,stroke:#10b981,color:#d1fae5,stroke-width:2px
 
     class A early
     class B growth
     class C independent
     class D community
     class E leadership
+
+    linkStyle 0 stroke:#64748b,stroke-width:2px
+    linkStyle 1 stroke:#3b82f6,stroke-width:2px
+    linkStyle 2 stroke:#818cf8,stroke-width:2px
+    linkStyle 3 stroke:#06b6d4,stroke-width:2px
 ```
+
 
 ## Things I've Built 🪄
 
