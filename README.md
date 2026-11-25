@@ -52,42 +52,62 @@ STATUS=STILL_BUILDING
 </tr>
 </table>
 
+
 ## Open Source 💡
 
 <div align="center">
 
-I did <a href="https://codein.withgoogle.com/archive/2018/"><b>Google Code-in back in 2018</b></a>, completed 6 tasks, and ended up with a certificate and a Google t-shirt for it. Then I didn't touch open source again for six years. Picked it back up in January 2026, first on my own, then through GSSoC and ECSOC.
+My open-source journey started with Google Code-in in 2018, where I completed 6 tasks and received an official Google T-shirt and certificate. After a break, I returned to open source in 2026 through independent development, GSSoC, and ECSOC.
 
 <br>
 
 <table>
 <tr>
 
-<td align="center" width="300">
-<img src="https://img.icons8.com/fluency/96/prize.png" width="60" />
-<h3>🩷 GSSoC '26</h3>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/google-logo.png" width="55" />
+<h3>Google Code-in 2018</h3>
+<img src="https://img.shields.io/badge/PROGRAM-GOOGLE_CODE--IN-4285F4?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Tasks-6-4285F4?style=flat-square" />
+<br><br>
+<img src="https://img.shields.io/badge/Recognition-Certificate-4285F4?style=flat-square" />
+<br><br>
+<img src="https://img.shields.io/badge/Swag-Official_Google_T--Shirt-4285F4?style=flat-square" />
+
+<br><br>
+<a href="https://codein.withgoogle.com/archive/2018/">View Archive</a>
+</td>
+
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/prize.png" width="55" />
+<h3>GSSoC 2026</h3>
 <img src="https://img.shields.io/badge/ROLE-CONTRIBUTOR-EC4899?style=for-the-badge" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🔀_Merged_PRs-65-EC4899?style=flat-square" />
+<img src="https://img.shields.io/badge/Merged_PRs-65-EC4899?style=flat-square" />
 <br><br>
-<img src="https://img.shields.io/badge/📦_Repositories-14-EC4899?style=flat-square" />
+<img src="https://img.shields.io/badge/Repositories-14-EC4899?style=flat-square" />
+<br><br>
+<img src="https://img.shields.io/badge/Rank-303-EC4899?style=flat-square" />
 
 </td>
 
-<td align="center" width="300">
-<img src="https://img.icons8.com/fluency/96/graduation-cap.png" width="60" />
-<h3>🟩 ECSOC 2026</h3>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/graduation-cap.png" width="55" />
+<h3>ECSOC 2026</h3>
 <img src="https://img.shields.io/badge/ROLE-PROJECT_ADMIN-10B981?style=for-the-badge" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/📚_Project-LearnHub-10B981?style=flat-square" />
+<img src="https://img.shields.io/badge/Project-LearnHub-10B981?style=flat-square" />
 <br><br>
-<img src="https://img.shields.io/badge/🌐_Type-Open_Source-10B981?style=flat-square" />
+<img src="https://img.shields.io/badge/Rank-37%2F86-10B981?style=flat-square" />
 <br><br>
-<img src="https://img.shields.io/badge/🤝_Role-Community_%26_Project_Mgmt-10B981?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-Project_Management-10B981?style=flat-square" />
 
 </td>
 
@@ -103,6 +123,7 @@ I did <a href="https://codein.withgoogle.com/archive/2018/"><b>Google Code-in ba
 </div>
 
 <br>
+
 
 ## The Journey So Far
 
