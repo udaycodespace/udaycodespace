@@ -77,8 +77,6 @@ My open-source journey started with Google Code-in in 2018, where I completed 6 
 <br><br>
 <img src="https://img.shields.io/badge/Swag-Official_Google_T--Shirt-4285F4?style=flat-square" />
 
-<br><br>
-<a href="https://codein.withgoogle.com/archive/2018/">View Archive</a>
 </td>
 
 <td align="center" width="33%">
@@ -114,8 +112,13 @@ My open-source journey started with Google Code-in in 2018, where I completed 6 
 </tr>
 </table>
 
+
 <br>
 
+<div align="center">
+
+<a href="https://codein.withgoogle.com/archive/2018/"><img src="https://img.shields.io/badge/GOOGLE_CODE--IN_2018-VIEW_ARCHIVE-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
+&nbsp;
 <a href="https://gssoc.girlscript.org/profile/75978a65-aabb-4e38-a236-166f5a60c8be"><img src="https://img.shields.io/badge/GSSoC_'26-VIEW_PROFILE-EC4899?style=for-the-badge&logo=github&logoColor=white" /></a>
 &nbsp;
 <a href="https://www.summerofcode.xyz/profile/project-admin/udaycodespace"><img src="https://img.shields.io/badge/ECSOC_2026-VIEW_PROFILE-10B981?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -123,7 +126,6 @@ My open-source journey started with Google Code-in in 2018, where I completed 6 
 </div>
 
 <br>
-
 
 ## The Journey So Far
 
