@@ -18,17 +18,20 @@
 
 <br>
 
+
 ## About Me 🙋‍♂️
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-I mostly learn by breaking things, then figuring out why they broke.
+I'm a full-stack developer who enjoys turning ideas into practical software and understanding how things work under the hood.
 
-That habit has taken me through full stack apps, a few MVPs, some cloud experiments that failed before they worked, and a growing list of open source repos, some I built from scratch, some I just showed up and contributed to.
+I work across full-stack development, Azure engineering, and open source. From building applications and experimenting with cloud technologies to contributing to projects built by others, I enjoy exploring problems and finding ways to solve them.
 
-Give me a codebase I've never seen before and I'll happily spend a weekend finding my way around it. Not because it's easy. Because that's usually how I actually learn something.
+I believe the best way to learn is to build, experiment, break things, debug, and try again. Every project, contribution, and unfamiliar codebase is another opportunity to understand something new.
+
+I'm continuously learning, improving my engineering skills, and building things that are useful.
 
 </td>
 
@@ -37,16 +40,18 @@ Give me a codebase I've never seen before and I'll happily spend a weekend findi
 <pre>
 $ ./about-me.sh
 
-[+] exploring codebases
-[+] breaking things
-[+] debugging
-[+] understanding why
-[+] building again
+[+] building applications
+[+] exploring Azure
+[+] contributing to open source
+[+] debugging and experimenting
+[+] learning new technologies
+[+] improving every iteration
 
 $ git status
-On branch learning
 
-STATUS=STILL_BUILDING
+On branch: continuous-growth
+
+STATUS=ALWAYS_EVOLVING
 </pre>
 
 </td>
