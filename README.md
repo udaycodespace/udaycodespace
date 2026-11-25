@@ -105,24 +105,27 @@ I did <a href="https://codein.withgoogle.com/archive/2018/"><b>Google Code-in ba
 <br>
 
 
+
 ## The Journey So Far
 
 ```mermaid
-flowchart LR
-    A["2018 · Google Code-in · 6 Tasks"]
-    B["2019-2025 · Hiatus"]
-    C["Jan-Apr 2026 · Independent Work · 5 Repositories"]
-    D["May-Aug 2026 · GSSoC · Contributor"]
-    E["Jul-Aug 2026 · ECSoC · LearnHub Project Admin"]
+flowchart TD
+    A(["🏁 2018 · Google Code-in<br/>6 Tasks Completed"])
+    B["🌱 2019–2025 · Learning & Exploration"]
+    C["💻 Jan–Apr 2026 · Independent Development<br/>5 Repositories"]
+    D["🌍 May–Aug 2026 · GirlScript Summer of Code<br/>Open-Source Contributor · Rank #303"]
+    E(["🚀 Jul–Aug 2026 · Elite Coders Summer of Code<br/>LearnHub Project Admin · Rank 37/86"])
 
     A --> B --> C --> D --> E
 
-    classDef milestone fill:#F1F5F9,stroke:#94A3B8,color:#0F172A
-    classDef independent fill:#EDE9FE,stroke:#8B5CF6,color:#4C1D95
-    classDef community fill:#DBEAFE,stroke:#2563EB,color:#1E3A8A
-    classDef leadership fill:#D1FAE5,stroke:#059669,color:#065F46
+    classDef early fill:#F1F5F9,stroke:#94A3B8,color:#0F172A,stroke-width:1.5px
+    classDef growth fill:#E0F2FE,stroke:#0284C7,color:#0C4A6E,stroke-width:1.5px
+    classDef independent fill:#EDE9FE,stroke:#8B5CF6,color:#4C1D95,stroke-width:1.5px
+    classDef community fill:#DBEAFE,stroke:#2563EB,color:#1E3A8A,stroke-width:1.5px
+    classDef leadership fill:#D1FAE5,stroke:#059669,color:#065F46,stroke-width:2px
 
-    class A,B milestone
+    class A early
+    class B growth
     class C independent
     class D community
     class E leadership
