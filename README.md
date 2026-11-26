@@ -1,9 +1,8 @@
+ <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:5B2EFF&height=200&section=header&text=SOMAPURAM%20UDAY&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Open%20Source%20Contributor%20%C2%B7%20Azure%20Engineering&descAlignY=55&descSize=17" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:5B2EFF&height=200&section=header&text=Somapuram%20Uday&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Open%20Source%20Contributor%20%C2%B7%20Azure%20Engineering&descAlignY=55&descSize=17" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=I+break+things+until+I+understand+them;Building+with+Full-Stack+Technologies;Engineering+with+Azure;Continuously+Upskilling+in+Azure;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=I+build+things+to+learn+how+they+work;Full-Stack+Development;Building+with+Microsoft+Azure;Learning+through+Open+Source;Build.+Test.+Learn.+Repeat." alt="Typing SVG" />
 
 <br>
 
@@ -18,40 +17,44 @@
 
 <br>
 
-
 ## About Me 🙋‍♂️
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-I'm a full-stack developer who enjoys turning ideas into practical software and understanding how things work under the hood.
+I build **full-stack applications and AI-powered solutions** using Microsoft technologies.
 
-I work across full-stack development, Azure engineering, and open source. From building applications and experimenting with cloud technologies to contributing to projects built by others, I enjoy exploring problems and finding ways to solve them.
+My current focus is **Agentic AI, Azure AI Foundry, and cloud engineering**. I'm exploring how AI agents use models, tools, and workflows to solve practical problems.
 
-I believe the best way to learn is to build, experiment, break things, debug, and try again. Every project, contribution, and unfamiliar codebase is another opportunity to understand something new.
+I also contribute to open source and enjoy working across the stack, from application code to cloud services.
 
-I'm continuously learning, improving my engineering skills, and building things that are useful.
+**My approach:** Learn by building. Understand by experimenting. Improve by solving problems.
 
 </td>
 
 <td width="40%" valign="top">
 
 <pre>
-$ ./about-me.sh
+$ whoami
 
-[+] building applications
-[+] exploring Azure
-[+] contributing to open source
-[+] debugging and experimenting
-[+] learning new technologies
-[+] improving every iteration
+UDAY
 
-$ git status
+$ cat focus.txt
 
-On branch: continuous-growth
+Agentic AI
+Azure AI Foundry
+Cloud Engineering
+Full-Stack Development
+Open Source
 
-STATUS=ALWAYS_EVOLVING
+$ cat mindset.txt
+
+Build > Experiment > Improve
+
+$ echo $STATUS
+
+EXPLORING WHAT'S NEXT
 </pre>
 
 </td>
@@ -60,7 +63,11 @@ STATUS=ALWAYS_EVOLVING
 
 ## Open Source 💡
 
-My open-source journey started with Google Code-in in 2018, where I completed 6 tasks and received an official Google T-shirt and certificate. After a break, I returned to open source in 2026 through independent development, GSSoC, and ECSOC.
+My open-source journey started with Google Code-in in 2018, where I completed 6 tasks and received a certificate and an official Google T-shirt.
+
+I took a break after that and returned in 2026. This time, I worked on independent projects, contributed to different repositories, and helped manage an open-source project.
+
+Here are some milestones from that journey.
 
 <div align="center">
 
@@ -101,7 +108,7 @@ My open-source journey started with Google Code-in in 2018, where I completed 6 
 
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/graduation-cap.png" width="55" />
-<h3>ECSOC 2026</h3>
+<h3>ECSoC 2026</h3>
 <img src="https://img.shields.io/badge/ROLE-PROJECT_ADMIN-10B981?style=for-the-badge" />
 
 <br><br>
@@ -123,7 +130,7 @@ My open-source journey started with Google Code-in in 2018, where I completed 6 
 &nbsp;
 <a href="https://gssoc.girlscript.org/profile/75978a65-aabb-4e38-a236-166f5a60c8be"><img src="https://img.shields.io/badge/GSSoC_'26-VIEW_PROFILE-EC4899?style=for-the-badge&logo=github&logoColor=white" /></a>
 &nbsp;
-<a href="https://www.summerofcode.xyz/profile/project-admin/udaycodespace"><img src="https://img.shields.io/badge/ECSOC_2026-VIEW_PROFILE-10B981?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.summerofcode.xyz/profile/project-admin/udaycodespace"><img src="https://img.shields.io/badge/ECSoC_2026-VIEW_PROFILE-10B981?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -161,6 +168,8 @@ flowchart LR
 
 ## Things I've Built 🪄
 
+I enjoy building projects that solve practical problems. Here are a few projects I've worked on.
+
 <div align="center">
 
 <table>
@@ -169,9 +178,9 @@ flowchart LR
 <td align="center" width="280">
 <img src="https://img.icons8.com/fluency/96/graduation-cap.png" width="55" />
 <h3>🎓 LearnHub</h3>
-<img src="https://img.shields.io/badge/ECSOC_2026-PROJECT_ADMIN-10B981?style=flat-square" />
+<img src="https://img.shields.io/badge/ECSoC_2026-PROJECT_ADMIN-10B981?style=flat-square" />
 <br><br>
-An open source learning platform I run as project admin, handling issues, PRs, and contributor onboarding.
+An open-source learning platform. I manage the project, review contributions, handle issues, and help new contributors get started.
 <br><br>
 <a href="https://github.com/udaycodespace/learnhub"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
@@ -181,7 +190,7 @@ An open source learning platform I run as project admin, handling issues, PRs, a
 <h3>🔐 Credify</h3>
 <img src="https://img.shields.io/badge/SECURITY-BLOCKCHAIN-7C3AED?style=flat-square" />
 <br><br>
-Verifies academic credentials so no one has to call a university registrar to check if a degree is real.
+A project that helps verify academic credentials. It aims to make checking certificates easier and reduce the need for manual verification.
 <br><br>
 <a href="https://github.com/udaycodespace/credify"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
@@ -191,7 +200,7 @@ Verifies academic credentials so no one has to call a university registrar to ch
 <h3>🏫 CampusEventHub</h3>
 <img src="https://img.shields.io/badge/MERN-FULL_STACK-0EA5E9?style=flat-square" />
 <br><br>
-A MERN app for running campus events without ten WhatsApp groups and a lost Google Form.
+A MERN application for managing campus events, making it easier to organize events and share information in one place.
 <br><br>
 <a href="https://github.com/udaycodespace/CampusEventHub"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
@@ -203,14 +212,16 @@ A MERN app for running campus events without ten WhatsApp groups and a lost Goog
 
 <br>
 
-## Where Else I've Shipped Code 🔥
+## Where Else I've Contributed 🔥
+
+I also work on projects maintained by other developers. These contributions include fixing bugs, improving features, testing, and updating documentation.
 
 <div align="center">
 
 <table>
 <tr>
 <th>Repository</th>
-<th>What I worked on</th>
+<th>Areas of Contribution</th>
 </tr>
 
 <tr>
@@ -261,13 +272,15 @@ A MERN app for running campus events without ten WhatsApp groups and a lost Goog
 
 <br>
 
-<a href="https://udaycodespace.github.io/open-source/"><img src="https://img.shields.io/badge/SEE_EVERYTHING_ELSE-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://udaycodespace.github.io/open-source/"><img src="https://img.shields.io/badge/SEE_ALL_CONTRIBUTIONS-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
 <br>
 
-## What I Actually Use 🛠️
+## Technologies I Use 🛠️
+
+These are some of the technologies I use in my projects and continue to learn.
 
 <div align="center">
 
@@ -287,9 +300,11 @@ A MERN app for running campus events without ten WhatsApp groups and a lost Goog
 
 <br>
 
-## How I Actually Work
+## How I Work
 
-I understand the problem, explore possible solutions, and build what works. I test, refine, and deliver. Feedback helps me improve and move forward.
+I don't start by writing code right away. First, I try to understand the problem. Then I explore possible solutions, build one, and test it.
+
+If something doesn't work, I debug it and try again. Once it works as expected, I deliver it and use feedback to improve the next version.
 
 ```mermaid
 flowchart TD
@@ -327,10 +342,9 @@ flowchart TD
 
 ---
 
-
 ## Let's Connect
 
-Interested in full-stack development, Azure, or open source? Feel free to reach out or explore more of my work.
+Interested in **Agentic AI, Azure, full-stack development, or open source?** Let's connect. Feel free to explore my work or reach out.
 
 <div align="center">
 
@@ -343,7 +357,7 @@ Interested in full-stack development, Azure, or open source? Feel free to reach 
 
 <h3>limₓ→∞ f(x) = ∞</h3>
 
-<sub>There is no final version. Only the next iteration.</sub>
+<sub>Always building. Always learning. Never the final version.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:5B2EFF&height=100&section=footer" width="100%" />
 
