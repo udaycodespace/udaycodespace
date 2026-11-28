@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:5B2EFF&height=200&section=header&text=SOMAPURAM%20UDAY&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Open%20Source%20Contributor%20%C2%B7%20Azure%20Engineering&descAlignY=55&descSize=17" width="100%" />
 
@@ -7,17 +7,17 @@
 <br>
 
 <p>
-  <img src="https://img.shields.io/badge/FULL_STACK_DEVELOPER-7C3AED?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/FULL_STACK_DEVELOPER-7C3AED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OPEN_SOURCE-ACTIVE-00C896?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/AZURE-CLOUD-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-BUILDER-EC4899?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AGENTIC_AI-EC4899?style=for-the-badge" />
 </p>
 
 </div>
 
 <br>
 
-## About Me 🙋‍♂️
+## About me 🙋‍♂️
 
 <table>
 <tr>
@@ -61,17 +61,50 @@ EXPLORING WHAT'S NEXT
 </tr>
 </table>
 
-## Open Source 💡
+---
+
+## What I work on 🧠
+
+A quick map of my skills and focus areas.
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'fontFamily':'Inter, Segoe UI, sans-serif','cScale0':'#2563EB','cScale1':'#0078D4','cScale2':'#7C3AED','cScale3':'#10B981','cScale4':'#F59E0B','cScaleLabel0':'#ffffff','cScaleLabel1':'#ffffff','cScaleLabel2':'#ffffff','cScaleLabel3':'#ffffff','cScaleLabel4':'#111827'}}}%%
+mindmap
+  root((Uday))
+    Full-Stack
+      React and JavaScript
+      Node.js and Express
+      MongoDB
+      Java and Spring
+    Cloud
+      Microsoft Azure
+      Azure AI Foundry
+      Docker
+    AI
+      Agentic AI
+      Python
+      TensorFlow
+    Open Source
+      Contributor
+      Project Admin
+      Code review
+    Good Practice
+      Testing
+      Documentation
+      Git workflow
+```
+
+---
+
+## Open source 💡
 
 My open-source journey started with Google Code-in in 2018, where I completed 6 tasks and received a certificate and an official Google T-shirt.
 
 I took a break after that and returned in 2026. This time, I worked on independent projects, contributed to different repositories, and helped manage an open-source project.
 
-Here are some milestones from that journey.
+### Milestones 🏁
 
 <div align="center">
-
-<br>
 
 <table>
 <tr>
@@ -79,15 +112,21 @@ Here are some milestones from that journey.
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/google-logo.png" width="55" />
 <h3>Google Code-in 2018</h3>
-<img src="https://img.shields.io/badge/PROGRAM-GOOGLE_CODE--IN-4285F4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ROLE-PARTICIPANT-4285F4?style=for-the-badge" />
 
 <br><br>
 
+<img src="https://img.shields.io/badge/Period-Oct_to_Dec_2018-4285F4?style=flat-square" />
+<br><br>
 <img src="https://img.shields.io/badge/Tasks-6-4285F4?style=flat-square" />
 <br><br>
 <img src="https://img.shields.io/badge/Recognition-Certificate-4285F4?style=flat-square" />
 <br><br>
 <img src="https://img.shields.io/badge/Swag-Official_Google_T--Shirt-4285F4?style=flat-square" />
+
+<br><br>
+
+<a href="https://codein.withgoogle.com/archive/2018/"><img src="https://img.shields.io/badge/VIEW_ARCHIVE-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
 
 </td>
 
@@ -98,11 +137,17 @@ Here are some milestones from that journey.
 
 <br><br>
 
+<img src="https://img.shields.io/badge/Period-May_15_to_Aug_15-EC4899?style=flat-square" />
+<br><br>
 <img src="https://img.shields.io/badge/Merged_PRs-65-EC4899?style=flat-square" />
 <br><br>
 <img src="https://img.shields.io/badge/Repositories-14-EC4899?style=flat-square" />
 <br><br>
 <img src="https://img.shields.io/badge/Rank-303-EC4899?style=flat-square" />
+
+<br><br>
+
+<a href="https://gssoc.girlscript.org/profile/75978a65-aabb-4e38-a236-166f5a60c8be"><img src="https://img.shields.io/badge/VIEW_PROFILE-EC4899?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 
@@ -113,62 +158,84 @@ Here are some milestones from that journey.
 
 <br><br>
 
+<img src="https://img.shields.io/badge/Period-Jul_to_Aug_31-10B981?style=flat-square" />
+<br><br>
 <img src="https://img.shields.io/badge/Project-LearnHub-10B981?style=flat-square" />
 <br><br>
 <img src="https://img.shields.io/badge/Rank-37%2F86-10B981?style=flat-square" />
 <br><br>
 <img src="https://img.shields.io/badge/Focus-Project_Management-10B981?style=flat-square" />
 
+<br><br>
+
+<a href="https://www.summerofcode.xyz/profile/project-admin/udaycodespace"><img src="https://img.shields.io/badge/VIEW_PROFILE-10B981?style=for-the-badge&logo=github&logoColor=white" /></a>
+
 </td>
 
 </tr>
 </table>
 
-<br>
-
-<a href="https://codein.withgoogle.com/archive/2018/"><img src="https://img.shields.io/badge/GOOGLE_CODE--IN_2018-VIEW_ARCHIVE-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
-&nbsp;
-<a href="https://gssoc.girlscript.org/profile/75978a65-aabb-4e38-a236-166f5a60c8be"><img src="https://img.shields.io/badge/GSSoC_'26-VIEW_PROFILE-EC4899?style=for-the-badge&logo=github&logoColor=white" /></a>
-&nbsp;
-<a href="https://www.summerofcode.xyz/profile/project-admin/udaycodespace"><img src="https://img.shields.io/badge/ECSoC_2026-VIEW_PROFILE-10B981?style=for-the-badge&logo=github&logoColor=white" /></a>
-
 </div>
 
-<br>
-
-## The Journey So Far
+### The journey so far 🎬
 
 ```mermaid
-flowchart LR
-    A["2018<br/>GOOGLE CODE-IN<br/>6 Tasks"]
-    B["2019–2025<br/>LEARNING & EXPLORATION"]
-    C["JAN–APR 2026<br/>INDEPENDENT WORK<br/>5 Repositories"]
-    D["MAY–AUG 2026<br/>GSSoC 2026<br/>Contributor · #303"]
-    E["JUL–AUG 2026<br/>ECSoC 2026<br/>LearnHub Project Admin · #37/86"]
+%%{init: {'theme':'base','themeVariables':{'fontFamily':'Inter, Segoe UI, sans-serif','actorBkg':'#EDE9FE','actorBorder':'#7C3AED','actorTextColor':'#4C1D95','signalColor':'#475569','noteBkgColor':'#FEF3C7','noteBorderColor':'#D97706','noteTextColor':'#78350F','activationBkgColor':'#DBEAFE','activationBorderColor':'#2563EB'}}}%%
+sequenceDiagram
+    autonumber
+    actor U as Uday
+    participant G as Google Code-in
+    participant S as Independent work
+    participant GS as GSSoC 2026
+    participant E as ECSoC 2026
 
-    A --> B --> C --> D --> E
+    U->>G: Joins as participant (2018)
+    G-->>U: 6 tasks, certificate, T-shirt
+    Note over U,E: Learning and exploring, 2019 to 2025
 
-    classDef a fill:#FFE4E6,stroke:#E11D48,color:#881337,stroke-width:2px
-    classDef b fill:#FEF3C7,stroke:#D97706,color:#78350F,stroke-width:2px
-    classDef c fill:#DCFCE7,stroke:#16A34A,color:#14532D,stroke-width:2px
-    classDef d fill:#DBEAFE,stroke:#2563EB,color:#1E3A8A,stroke-width:2px
-    classDef e fill:#F3E8FF,stroke:#9333EA,color:#581C87,stroke-width:2px
+    U->>S: Contributes on his own (Jan to Apr 2026)
+    S-->>U: 5 repositories
 
-    class A a
-    class B b
-    class C c
-    class D d
-    class E e
+    U->>GS: Joins as contributor (May to Aug 2026)
+    GS-->>U: 65 merged PRs, rank 303
 
-    linkStyle 0 stroke:#E11D48,stroke-width:2px
-    linkStyle 1 stroke:#D97706,stroke-width:2px
-    linkStyle 2 stroke:#16A34A,stroke-width:2px
-    linkStyle 3 stroke:#2563EB,stroke-width:2px
+    U->>E: Becomes Project Admin (Jul to Aug 2026)
+    activate E
+    E-->>U: Leads LearnHub, rank 37 of 86
+    deactivate E
 ```
 
-## Things I've Built 🪄
+### What a Project Admin does 🛡️
 
-I enjoy building projects that solve practical problems. Here are a few projects I've worked on.
+How I run LearnHub, in one map.
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'fontFamily':'Inter, Segoe UI, sans-serif','cScale0':'#10B981','cScale1':'#2563EB','cScale2':'#7C3AED','cScale3':'#DB2777','cScale4':'#F59E0B','cScaleLabel0':'#ffffff','cScaleLabel1':'#ffffff','cScaleLabel2':'#ffffff','cScaleLabel3':'#ffffff','cScaleLabel4':'#111827'}}}%%
+mindmap
+  root((LearnHub<br/>Project Admin))
+    Issues
+      Write clear issues
+      Label and prioritise
+    Pull requests
+      Review code
+      Give feedback
+      Merge
+    Contributors
+      Help beginners start
+      Answer questions
+    Quality
+      Testing
+      Documentation
+    Direction
+      Roadmap
+      Release readiness
+```
+
+---
+
+## Things I've built 🪄
+
+I enjoy building projects that solve practical problems.
 
 <div align="center">
 
@@ -177,7 +244,7 @@ I enjoy building projects that solve practical problems. Here are a few projects
 
 <td align="center" width="280">
 <img src="https://img.icons8.com/fluency/96/graduation-cap.png" width="55" />
-<h3>🎓 LearnHub</h3>
+<h3>LearnHub 🎓</h3>
 <img src="https://img.shields.io/badge/ECSoC_2026-PROJECT_ADMIN-10B981?style=flat-square" />
 <br><br>
 An open-source learning platform. I manage the project, review contributions, handle issues, and help new contributors get started.
@@ -187,7 +254,7 @@ An open-source learning platform. I manage the project, review contributions, ha
 
 <td align="center" width="280">
 <img src="https://img.icons8.com/fluency/96/security-checked.png" width="55" />
-<h3>🔐 Credify</h3>
+<h3>Credify 🔐</h3>
 <img src="https://img.shields.io/badge/SECURITY-BLOCKCHAIN-7C3AED?style=flat-square" />
 <br><br>
 A project that helps verify academic credentials. It aims to make checking certificates easier and reduce the need for manual verification.
@@ -197,7 +264,7 @@ A project that helps verify academic credentials. It aims to make checking certi
 
 <td align="center" width="280">
 <img src="https://img.icons8.com/fluency/96/school-building.png" width="55" />
-<h3>🏫 CampusEventHub</h3>
+<h3>CampusEventHub 🏫</h3>
 <img src="https://img.shields.io/badge/MERN-FULL_STACK-0EA5E9?style=flat-square" />
 <br><br>
 A MERN application for managing campus events, making it easier to organize events and share information in one place.
@@ -210,22 +277,22 @@ A MERN application for managing campus events, making it easier to organize even
 
 </div>
 
-<br>
+---
 
-## Where Else I've Contributed 🔥
+## Where else I've contributed 🔥
 
-I also work on projects maintained by other developers. These contributions include fixing bugs, improving features, testing, and updating documentation.
+I also work on projects maintained by other developers: fixing bugs, improving features, testing, and updating documentation.
 
 <div align="center">
 
 <table>
 <tr>
 <th>Repository</th>
-<th>Areas of Contribution</th>
+<th>Areas of contribution</th>
 </tr>
 
 <tr>
-<td><a href="https://github.com/Dev-Card/DevCard"><b>🃏 DevCard</b></a></td>
+<td><a href="https://github.com/Dev-Card/DevCard"><b>DevCard</b></a> 🃏</td>
 <td>
 <img src="https://img.shields.io/badge/Features-7C3AED?style=flat-square" />
 <img src="https://img.shields.io/badge/Testing-0EA5E9?style=flat-square" />
@@ -234,7 +301,7 @@ I also work on projects maintained by other developers. These contributions incl
 </tr>
 
 <tr>
-<td><a href="https://github.com/JhaSourav07/commitpulse"><b>💓 CommitPulse</b></a></td>
+<td><a href="https://github.com/JhaSourav07/commitpulse"><b>CommitPulse</b></a> 💓</td>
 <td>
 <img src="https://img.shields.io/badge/Testing-0EA5E9?style=flat-square" />
 <img src="https://img.shields.io/badge/Bug_Fixes-F59E0B?style=flat-square" />
@@ -243,7 +310,7 @@ I also work on projects maintained by other developers. These contributions incl
 </tr>
 
 <tr>
-<td><a href="https://github.com/nevinshine/telos-runtime"><b>⚙️ Telos Runtime</b></a></td>
+<td><a href="https://github.com/nevinshine/telos-runtime"><b>Telos Runtime</b></a> ⚙️</td>
 <td>
 <img src="https://img.shields.io/badge/Security-EF4444?style=flat-square" />
 <img src="https://img.shields.io/badge/Runtime-6366F1?style=flat-square" />
@@ -252,7 +319,7 @@ I also work on projects maintained by other developers. These contributions incl
 </tr>
 
 <tr>
-<td><a href="https://github.com/anubhavxdev/Event-management-system-main"><b>🎪 Event Management System</b></a></td>
+<td><a href="https://github.com/anubhavxdev/Event-management-system-main"><b>Event Management System</b></a> 🎪</td>
 <td>
 <img src="https://img.shields.io/badge/Security-EF4444?style=flat-square" />
 <img src="https://img.shields.io/badge/Workflows-F59E0B?style=flat-square" />
@@ -260,7 +327,7 @@ I also work on projects maintained by other developers. These contributions incl
 </tr>
 
 <tr>
-<td><a href="https://github.com/geturbackend/urBackend"><b>🔧 urBackend</b></a></td>
+<td><a href="https://github.com/geturbackend/urBackend"><b>urBackend</b></a> 🔧</td>
 <td>
 <img src="https://img.shields.io/badge/Auth-0EA5E9?style=flat-square" />
 <img src="https://img.shields.io/badge/Error_Handling-EF4444?style=flat-square" />
@@ -276,75 +343,62 @@ I also work on projects maintained by other developers. These contributions incl
 
 </div>
 
-<br>
+---
 
-## Technologies I Use 🛠️
-
-These are some of the technologies I use in my projects and continue to learn.
+## Technologies I use 🛠️
 
 <div align="center">
 
-<h3>⚛️ Frontend</h3>
+<h3>Frontend ⚛️</h3>
 <img src="https://skillicons.dev/icons?i=react,js,html,css" />
 
-<h3>⚙️ Backend</h3>
+<h3>Backend ⚙️</h3>
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
 
-<h3>☁️ Cloud & DevOps</h3>
+<h3>Cloud and DevOps ☁️</h3>
 <img src="https://skillicons.dev/icons?i=azure,docker,git,github" />
 
-<h3>🤖 AI & Agent Development</h3>
+<h3>AI and agents 🤖</h3>
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 
 </div>
 
-<br>
+---
 
-## How I Work
+## How I work 🔁
 
-I don't start by writing code right away. First, I try to understand the problem. Then I explore possible solutions, build one, and test it.
-
-If something doesn't work, I debug it and try again. Once it works as expected, I deliver it and use feedback to improve the next version.
+I don't start by writing code right away. First I understand the problem, then I explore options, build one, and test it. If it fails, I debug and try again. Once it works, I deliver it and use feedback to improve the next version.
 
 ```mermaid
-flowchart TD
-    A("Understand")
-    B("Explore")
-    C("Build")
-    D("Test")
-    E("Improve")
-    F("Deliver")
-    G("Feedback")
+%%{init: {'theme':'base','themeVariables':{'fontFamily':'Inter, Segoe UI, sans-serif','actorBkg':'#DBEAFE','actorBorder':'#2563EB','actorTextColor':'#1E3A8A','signalColor':'#475569','noteBkgColor':'#DCFCE7','noteBorderColor':'#16A34A','noteTextColor':'#14532D'}}}%%
+sequenceDiagram
+    actor Me
+    participant P as Problem
+    participant C as Code
+    participant T as Tests
+    participant U as Users
 
-    A --> B --> C --> D
-    D -->|Needs work| E
-    E --> C
-    D -->|Ready| F
-    F --> G
-    G --> B
-
-    classDef blue fill:#DBEAFE,stroke:#2563EB,color:#1E3A8A
-    classDef cyan fill:#CFFAFE,stroke:#0891B2,color:#164E63
-    classDef violet fill:#EDE9FE,stroke:#7C3AED,color:#4C1D95
-    classDef amber fill:#FEF3C7,stroke:#D97706,color:#78350F
-    classDef green fill:#DCFCE7,stroke:#16A34A,color:#14532D
-
-    class A blue
-    class B cyan
-    class C violet
-    class D amber
-    class E blue
-    class F green
-    class G cyan
-
-    linkStyle default stroke:#94A3B8,stroke-width:1.5px
+    Me->>P: Understand it
+    Me->>P: Explore options
+    loop Until tests pass
+        Me->>C: Build
+        C->>T: Run tests
+        alt Needs work
+            T-->>Me: Failing, debug
+        else Ready
+            T-->>Me: Passing
+        end
+    end
+    Me->>U: Deliver
+    U-->>Me: Feedback
+    Note over Me,U: Feedback shapes the next version
 ```
 
 ---
 
-## Let's Connect
+## Let's connect 🤝
 
-Interested in **Agentic AI, Azure, full-stack development, or open source?** Let's connect. Feel free to explore my work or reach out.
+Interested in **Agentic AI, Azure, full-stack development, or open source?** Feel free to explore my work or reach out.
 
 <div align="center">
 
