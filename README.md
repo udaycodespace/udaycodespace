@@ -63,39 +63,6 @@ EXPLORING WHAT'S NEXT
 
 ---
 
-## What I work on 🧠
-
-A quick map of my skills and focus areas.
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'fontFamily':'Inter, Segoe UI, sans-serif','cScale0':'#2563EB','cScale1':'#0078D4','cScale2':'#7C3AED','cScale3':'#10B981','cScale4':'#F59E0B','cScaleLabel0':'#ffffff','cScaleLabel1':'#ffffff','cScaleLabel2':'#ffffff','cScaleLabel3':'#ffffff','cScaleLabel4':'#111827'}}}%%
-mindmap
-  root((Uday))
-    Full-Stack
-      React and JavaScript
-      Node.js and Express
-      MongoDB
-      Java and Spring
-    Cloud
-      Microsoft Azure
-      Azure AI Foundry
-      Docker
-    AI
-      Agentic AI
-      Python
-      TensorFlow
-    Open Source
-      Contributor
-      Project Admin
-      Code review
-    Good Practice
-      Testing
-      Documentation
-      Git workflow
-```
-
----
-
 ## Open source 💡
 
 My open-source journey started with Google Code-in in 2018, where I completed 6 tasks and received a certificate and an official Google T-shirt.
@@ -176,60 +143,6 @@ I took a break after that and returned in 2026. This time, I worked on independe
 </table>
 
 </div>
-
-### The journey so far 🎬
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'fontFamily':'Inter, Segoe UI, sans-serif','actorBkg':'#EDE9FE','actorBorder':'#7C3AED','actorTextColor':'#4C1D95','signalColor':'#475569','noteBkgColor':'#FEF3C7','noteBorderColor':'#D97706','noteTextColor':'#78350F','activationBkgColor':'#DBEAFE','activationBorderColor':'#2563EB'}}}%%
-sequenceDiagram
-    autonumber
-    actor U as Uday
-    participant G as Google Code-in
-    participant S as Independent work
-    participant GS as GSSoC 2026
-    participant E as ECSoC 2026
-
-    U->>G: Joins as participant (2018)
-    G-->>U: 6 tasks, certificate, T-shirt
-    Note over U,E: Learning and exploring, 2019 to 2025
-
-    U->>S: Contributes on his own (Jan to Apr 2026)
-    S-->>U: 5 repositories
-
-    U->>GS: Joins as contributor (May to Aug 2026)
-    GS-->>U: 65 merged PRs, rank 303
-
-    U->>E: Becomes Project Admin (Jul to Aug 2026)
-    activate E
-    E-->>U: Leads LearnHub, rank 37 of 86
-    deactivate E
-```
-
-### What a Project Admin does 🛡️
-
-How I run LearnHub, in one map.
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'fontFamily':'Inter, Segoe UI, sans-serif','cScale0':'#10B981','cScale1':'#2563EB','cScale2':'#7C3AED','cScale3':'#DB2777','cScale4':'#F59E0B','cScaleLabel0':'#ffffff','cScaleLabel1':'#ffffff','cScaleLabel2':'#ffffff','cScaleLabel3':'#ffffff','cScaleLabel4':'#111827'}}}%%
-mindmap
-  root((LearnHub<br/>Project Admin))
-    Issues
-      Write clear issues
-      Label and prioritise
-    Pull requests
-      Review code
-      Give feedback
-      Merge
-    Contributors
-      Help beginners start
-      Answer questions
-    Quality
-      Testing
-      Documentation
-    Direction
-      Roadmap
-      Release readiness
-```
 
 ---
 
