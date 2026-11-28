@@ -19,10 +19,6 @@
 
 ## About me 🙋‍♂️
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 I build **full-stack applications and AI-powered solutions** using Microsoft technologies.
 
 My current focus is **Agentic AI, Azure AI Foundry, and cloud engineering**. I'm exploring how AI agents use models, tools, and workflows to solve practical problems.
@@ -31,35 +27,28 @@ I also contribute to open source and enjoy working across the stack, from applic
 
 **My approach:** Learn by building. Understand by experimenting. Improve by solving problems.
 
-</td>
+### Where my skills stand 🎯
 
-<td width="40%" valign="top">
-
-<pre>
-$ whoami
-
-UDAY
-
-$ cat focus.txt
-
-Agentic AI
-Azure AI Foundry
-Cloud Engineering
-Full-Stack Development
-Open Source
-
-$ cat mindset.txt
-
-Build > Experiment > Improve
-
-$ echo $STATUS
-
-EXPLORING WHAT'S NEXT
-</pre>
-
-</td>
-</tr>
-</table>
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'fontFamily':'Inter, Segoe UI, sans-serif','quadrant1Fill':'#DCFCE7','quadrant2Fill':'#DBEAFE','quadrant3Fill':'#F1F5F9','quadrant4Fill':'#FEF3C7','quadrantTitleFill':'#1E293B','quadrantPointFill':'#7C3AED','quadrantPointTextFill':'#1E293B'}}}%%
+quadrantChart
+    title My skills
+    x-axis Still learning --> Strong
+    y-axis Used rarely --> Used often
+    quadrant-1 Core strengths
+    quadrant-2 Growing fast
+    quadrant-3 Explore later
+    quadrant-4 Strong, used less
+    React: [0.80, 0.85]
+    Node and Express: [0.78, 0.80]
+    MongoDB: [0.70, 0.70]
+    Azure: [0.60, 0.65]
+    Azure AI Foundry: [0.42, 0.55]
+    Agentic AI: [0.35, 0.50]
+    Docker: [0.55, 0.40]
+    Java and Spring: [0.55, 0.15]
+    TensorFlow: [0.25, 0.15]
+```
 
 ---
 
